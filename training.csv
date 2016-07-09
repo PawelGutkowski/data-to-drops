@@ -1,0 +1,2500 @@
+Row ID,#status,Status Category
+298646,Functional,Functional
+322749,Functional,Functional
+350737,,
+295301,Functional,Functional
+209964,Non-Functional,vague
+312020,Non-Functional,vague
+48944,Status:Not functional|Reason Not Functioning:No pump|Quantity:Unknown|Quality:Unknown,missingparts
+13782,OK,Functional
+295683,Non-Functional - low yielding,quantity_other
+26458,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+32894,Status:Functional|Breakdown Year:2005|Reason Not Functioning:7 taps but only 1 works|Quantity:Enough|Quality:Salty,Functional
+179571,OK,Functional
+291611,Functional,Functional
+57584,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+320559,Functional,Functional
+397196,,
+84103,Yes- but partly damaged. Well damaged | Apron Damaged | Pump stolen,"technical_other, vandalism"
+219248,Functional,Functional
+257234,Functional - THE WATER TABLE IS BELOW THE CYLINDER,vague
+190808,OK,Functional
+213003,Non-Functional - DEFECTIVE PUMP PARTS,technical_other
+308983,Functional,Functional
+66116,Yes- functional.,Functional
+316293,Functional,Functional
+388855,,
+112353,Water point working with Bucket|,Functional
+295866,Functional,Functional
+308138,Functional,Functional
+31317,Status:Not functional|Breakdown Year:2002|Quantity:Insufficient|Quality:Soft,quantity_other
+145069,Water Point Pump Problem|,technical_other
+98277,No- broken down. Pump damaged,technical_other
+96962,Yes- functional.,Functional
+19630,Status:Functional|Quantity:Not recorded|Quality:Not recorded,Functional
+49507,Status:Not functional|Breakdown Year:2003|Quantity:Insufficient|Quality:Soft,quantity_other
+83761,Yes- functional.,Functional
+128662,,
+223338,Functional,Functional
+2716,OK,Functional
+277112,Functional,Functional
+206738,Functional,Functional
+283426,Functional,Functional
+351073,,
+1737,DRY,quantity_other
+225895,Functional,Functional
+4111,PROBLEM BUT DELIVERING WATER,vague
+324057,Functional,Functional
+253547,Functional,Functional
+6188,OK,Functional
+294895,Functional,Functional
+148762,,
+32886,Status:Functional|Reason Not Functioning:functional but need repair|Quantity:Enough|Quality:Soft,Functional
+278556,"Non-Functional - THE WATER TANK RE SAVIOR DRIES, IT IS ON ON AND OFF.",quantity_other
+294329,Functional,Functional
+126986,Pipe Scheme Tap Problem|,technical_other
+60347,,
+273520,Functional,Functional
+312303,Functional,Functional
+289423,Functional,Functional
+206139,Functional,Functional
+8996,PROBLEM BUT NOT DELIVERING WATER,vague
+176049,Broken Down System. Pump broken,technical_other
+4017,PROBLEM BUT NOT DELIVERING WATER,vague
+64804,Yes- but partly damaged. Tap head(s) broken or missing | Tapstand leaking | Reservoir damaged/polluted,"quality, technical_other"
+322644,Non-Functional,vague
+99743,No- broken down. Well damaged | Apron damaged,technical_other
+276725,Functional,Functional
+263392,Non-Functional - THE COMMUNITY NEEDS DEEP BORE HOLES.,vague
+273559,Functional,Functional
+78357,Yes- but partly damaged. Well damaged,technical_other
+312905,Non-Functional - NO FUNDS FOR REPAIR,funds_maintain
+202867,Non-Functional,vague
+114169,,
+10011,OK,Functional
+336150,Functional ( in use),Functional
+310736,Functional,Functional
+84113,Yes- but partly damaged. Well damaged | Apron Damaged,technical_other
+179558,OK,Functional
+276956,Functional,Functional
+353416,,
+58544,,
+28445,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+1405,OK,Functional
+277017,Functional,Functional
+64527,Yes- functional.,Functional
+244596,Functional,Functional
+182013,OK,Functional
+63211,Yes- but partly damaged. Pump damaged,technical_other
+175345,Working and protected. Not damaged,Functional
+180711,PROBLEM BUT NOT DELIVERING WATER,vague
+31975,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+27508,Status:Functional|Breakdown Year:2008|Quantity:Enough|Quality:Soft,Functional
+237673,Functional,Functional
+213624,Functional,Functional
+82130,Yes- functional.,Functional
+150212,,
+316000,Functional,Functional
+64340,Yes- functional.,Functional
+253936,Functional - THE BOREHOLE BROKE DOWN.,technical_other
+396270,,
+339038,,
+254055,Functional,Functional
+25869,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+222783,Functional (not in use),abandon
+15311,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+213029,Decommissioned,decommissioned
+4060,OK,Functional
+219893,Functional,Functional
+95568,Yes- functional.,Functional
+212169,Non-Functional,vague
+395347,,
+299476,Functional,Functional
+222368,Decommissioned,decommissioned
+243561,Functional,Functional
+14972,Status:Functional|Breakdown Year:2005|Reason Not Functioning:Poor management|Quantity:Enough|Quality:Soft,Functional
+60663,,
+280145,Functional,Functional
+196114,DRY,quantity_other
+352311,,
+176901,Broken Down System. Pump broken,technical_other
+213519,Functional,Functional
+285347,Non-Functional,vague
+131248,Water point working with Bucket|,Functional
+162490,Working and protected. Not damaged,Functional
+206895,Non-Functional,vague
+388480,,
+96318,No- broken down. Well damaged | Apron damaged | Pump damaged | Pump stolen,"technical_other, vandalism"
+205472,Functional,Functional
+308168,Non-Functional,vague
+53933,Status:Not functional|Quantity:Enough|Quality:Soft,vague
+113835,,
+270371,Functional,Functional
+338691,Normally operational,Functional
+286273,Non-Functional - WATER SHIFTED TO SHALLOW WELL,Vague
+389251,,
+271438,Functional,Functional
+220600,Functional,Functional
+144166,,
+150966,,
+62721,,
+390472,,
+312451,Functional,Functional
+62415,,
+324708,Functional,Functional
+128709,Water Point Pump Problem|,technical_other
+351467,,
+55106,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+226246,Functional,Functional
+5914,PROBLEM BUT DELIVERING WATER,vague
+392326,,
+178993,OK,Functional
+127650,,
+338020,Functional (but in bad state)|unprotected,"const_des, quality"
+61417,,
+320481,Functional,Functional
+270625,Functional,Functional
+211379,Functional,Functional
+284960,Non-Functional,vague
+239726,Functional,Functional
+118182,Water point working with Bucket|Water Point Concrete Problem|,technical_other
+192143,OK,Functional
+202335,Partially functioning,Functional
+230068,Functional,Functional
+224962,Functional,Functional
+395487,,
+183201,OK,Functional
+339357,System is Broken|Seasonal Shortages|Broken Parts|Not Enough Water Flow,"quantity_other, technical_other"
+350016,,
+7330,OK,Functional
+52149,Status:Not functional|Breakdown Year:2004|Quantity:Enough|Quality:Soft,vague
+117754,Water Point Pump Problem|,technical_other
+60477,,
+310388,Functional,Functional
+129143,,
+145686,,
+26408,Status:Functional|Quantity:Enough|Quality:Milky,Functional
+215808,Non-Functional,vague
+160220,Operational,Functional
+180239,PROBLEM BUT NOT DELIVERING WATER,vague
+392115,,
+279700,Functional - POOR CONSTRUCTION/SHODDY WORK,const_des
+258818,Functional,Functional
+212453,Functional,Functional
+117258,Water Point Plugged and abandoned|,"abandon, technical_other"
+77163,Yes- but partly damaged. Apron Damaged,technical_other
+244999,Non-Functional,vague
+132158,,
+217018,Functional,Functional
+219006,Functional,Functional
+389674,,
+194661,DRY,quantity_other
+349668,,
+67678,No- broken down. Pipe(s) blocked or disconnected,technical_other
+281464,Functional,Functional
+6311,OK,Functional
+15551,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+313164,Functional,Functional
+229971,Functional,Functional
+167923,Broken Down System. Not specified,vague
+64963,Yes- functional.,Functional
+199911,OK,Functional
+98926,No- still under construction.,underconst
+117427,Water Point Pump Problem|,technical_other
+14787,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+397177,,
+10405,OK,Functional
+238533,Non-Functional - Need to establish technical break down before repairs,technical_other
+13721,OK,Functional
+218257,Functional,Functional
+194291,OK,Functional
+114412,,
+52729,Status:Not functional|Breakdown Year:2002|Quantity:Enough|Quality:Soft,vague
+293449,Functional,Functional
+314415,Non-Functional - technical break down,technical_other
+224401,Functional,Functional
+215643,Non-Functional,vague
+339543,System is Broken|Broken Parts|Poor Water Quality,"quality, technical_other"
+142800,,
+143281,,
+18000,Status:Not functional|Quantity:Insufficient|Quality:Soft,quantity_other
+151346,,
+198882,LOST,vague
+260452,Functional,Functional
+110833,,
+278955,Functional,Functional
+321704,Non-Functional,vague
+79453,Yes- functional.,Functional
+320418,Functional,Functional
+160051,Non-Operational,Vague
+201639,,
+297509,Functional,Functional
+12949,OK,Functional
+395465,,
+2024,OK,Functional
+129631,,
+317289,Functional,Functional
+80218,Yes- functional.,Functional
+348692,,
+53112,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+7218,LOST,vague
+315484,Non-Functional,vague
+126479,,
+197367,OK,Functional
+337919,Functional ( in use),Functional
+207967,Functional,Functional
+62019,,
+116146,,
+628,OK,Functional
+25336,Status:Not functional|Breakdown Year:2007|Reason Not Functioning:Hydram rubber worn out|Quantity:Enough|Quality:Soft,technical_other
+224206,Functional,Functional
+174739,Working and protected. Not damaged,Functional
+239599,Functional,Functional
+241879,Functional,Functional
+350022,,
+195220,OK,Functional
+321140,Functional,Functional
+387825,,
+115532,,
+147577,,
+116370,,
+286506,Functional,Functional
+307235,Functional,Functional
+240459,Non-Functional,vague
+229321,Functional (not in use),abandon
+350579,,
+142104,,
+212536,Functional,Functional
+277909,Functional,Functional
+334723,Functional and in use,Functional
+161423,Partially operational,Functional
+336816,Functional (but in bad state)|dirty water,quality
+339888,System is Down for Maintenance  or Repair|Broken Parts,technical_other
+176640,Broken Down System. Well damaged,technical_other
+316402,Functional,Functional
+230458,Functional,Functional
+215832,Functional,Functional
+211960,Functional,Functional
+118022,Water point working with Bucket|Water Point Concrete Problem|,technical_other
+284080,Functional - THE GFS HAS LOW PRESSURE TO REACH EVRY TAP,vague
+396995,,
+308793,Non-Functional - no repair done and people have alternative sources,"lowdem_alt, mng_other"
+203974,Functional,Functional
+128012,Water Point Pump Problem|,technical_other
+262035,Functional,Functional
+326148,functional,Functional
+11261,OK,Functional
+79927,Yes- functional.,Functional
+389234,,
+324799,Functional,Functional
+220713,Functional (not in use),abandon
+337687,Functional ( in use),Functional
+84162,No- broken down. No water in network or tank,vague
+246881,Functional,Functional
+150478,,
+76691,No- broken down. Pipe(s) blocked or disconnected,technical_other
+312106,Functional,Functional
+212921,Functional,Functional
+97676,No- broken down. Tap head(s) broken or missing,technical_other
+4154,OK,Functional
+317062,Functional - TECHNICAL BREAKDOWN,technical_other
+209558,Functional,Functional
+310193,Non-Functional,vague
+280887,Functional,Functional
+323742,Functional,Functional
+55392,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+150697,Pipe Scheme Tap Problem|,technical_other
+62390,,
+257748,Functional - INSTITUTION BOUGHT 2 PIPES AND THEY ARE COLLECTING FUND FROM COMMUNITY,vague
+338673,,
+192276,OK,Functional
+205334,Functional,Functional
+282477,Functional,Functional
+216726,Functional,Functional
+221770,Functional,Functional
+390860,,
+397799,,
+260800,Functional,Functional
+102135,Yes- functional.,Functional
+255759,Functional,Functional
+333208,not functional,vague
+65336,Yes- functional.,Functional
+334088,Non functional|Technical breakdown|pump got stuck,technical_other
+309963,Functional,Functional
+320270,Functional,Functional
+294244,Functional,Functional
+288109,Functional,Functional
+198480,OK,Functional
+159587,Pipe Scheme Tap Problem|,technical_other
+198819,DRY,quantity_other
+181226,OK,Functional
+337989,Functional ( in use),Functional
+54567,Status:Not functional|Quantity:Enough|Quality:Salty,quality
+97913,Yes- but partly damaged. Pipe(s) blocked or disconnected,technical_other
+203148,Functional (not in use),abandon
+111776,,
+206677,Functional,Functional
+353253,,
+987,DRY,quantity_other
+394584,,
+99140,No- still under construction.,underconst
+333043,functional,Functional
+4554,OK,Functional
+398145,,
+215118,Functional,Functional
+237634,Functional,Functional
+245455,Functional,Functional
+158287,Water point dry/ drawdown|Water Point Pump Problem|,"quantity_other, technical_other"
+93098,Yes- functional.,Functional
+292262,Functional,Functional
+26830,Status:Not functional|Breakdown Year:2003|Quantity:Seasonal|Quality:Soft,quantity_other
+207757,Functional (not in use)  - Low yield (2 jerrycan per day),"abandon, quantity_other"
+270920,Functional,Functional
+313540,Functional,Functional
+214684,Functional,Functional
+95474,Yes- but partly damaged. Well polluted | Pump damaged,"quality, technical_other"
+26858,Status:Functional|Reason Not Functioning:Low pressure|Quantity:Insufficient|Quality:Soft,Functional
+176998,Broken Down System. Well damaged,technical_other
+199632,OK,Functional
+395399,,
+31969,Status:Not functional|Breakdown Year:1993|Quantity:Dry|Quality:Not recorded,quantity_other
+209680,Functional,Functional
+92483,No- broken down. Well damaged | Well polluted | Apron damaged | LINING SUNK DOWN,"quality, technical_other"
+29176,Status:Not functional|Reason Not Functioning:Technical problem|Quantity:Insufficient|Quality:Salty,"quantity_other, quality, technical_other"
+225408,Functional (not in use),abandon
+391892,,
+272278,Functional,Functional
+195682,OK,Functional
+67932,Yes- functional.,Functional
+290056,Functional,Functional
+220697,Functional,Functional
+160879,Operational,Functional
+323938,Functional,Functional
+229213,Functional,Functional
+32299,Status:Not functional|Breakdown Year:1985|Quantity:Enough|Quality:Soft,vague
+84190,No- still under construction.,underconst
+64393,Yes- functional.,Functional
+288399,"Non-Functional - PIPES, CYLINDER, LODES STOLEN",vandalism
+239876,Functional,Functional
+263123,Decommissioned - MOST OF NGO WATER SOURCES WAS POORLY SILTED,"vague, decommissioned"
+293033,Functional,Functional
+150738,Pipe Scheme Tap Problem|,technical_other
+386938,,
+100686,Yes- functional.,Functional
+262045,Functional,Functional
+24561,Status:Not functional|Breakdown Year:2007|Reason Not Functioning:Main pipe broken and standpipe broke|Quantity:Insufficient|Quality:Soft,"quantity_other, technical_other"
+219348,Functional,Functional
+213288,Functional,Functional
+60456,,
+309378,Functional,Functional
+179033,OK,Functional
+49256,"Status:Functional|Reason Not Functioning:cylinder,riser,rod,pump head,cocrete cover|Quantity:Enough|Quality:Soft",Functional
+96291,No- still under construction.,underconst
+81792,No- broken down. Pump damaged,technical_other
+143186,,
+78850,Yes- functional.,Functional
+150753,Water Point Pump Problem|,technical_other
+192382,OK,Functional
+126835,Water Point Collapsed/ Destroyed|Pipe Scheme Tap Problem|,technical_other
+1608,OK,Functional
+299212,Functional,Functional
+274625,Functional,Functional
+214891,Non-Functional,vague
+55064,Status:Not functional|Quantity:Insufficient|Quality:Soft,quantity_other
+177793,Broken Down System. Not specified,vague
+333231,not functional,vague
+110301,No- broken down. Tap head(s) broken or missing | Pipe(s) blocked or disconnected | Concrete structure damaged,technical_other
+215746,Decommissioned - Broken tap and disconnected Gutter,"decommissioned, technical_other"
+287827,Functional,Functional
+263042,Functional,Functional
+142584,,
+335028,Functional ( in use),Functional
+320364,Functional,Functional
+257008,Functional,Functional
+310799,Non-Functional,vague
+93290,Yes- functional.,Functional
+295685,Functional,Functional
+199072,LOST,vague
+309592,Functional,Functional
+94909,Yes- functional.,Functional
+195810,OK,Functional
+271109,Functional,Functional
+273333,Non-Functional,vague
+100112,Yes- but partly damaged. Apron Damaged,technical_other
+226380,Functional,Functional
+193479,OK,Functional
+207445,Non-Functional,vague
+215245,Functional,Functional
+59708,,
+143813,,
+254086,Functional - ALL THE PARTS WERE REMOVED ONLY THE CASSING REMAINS.,vandalism
+64576,No- still under construction.,underconst
+31523,Status:Not functional|Breakdown Year:2000|Quantity:Enough|Quality:Soft,
+69567,Yes- functional.,Functional
+286060,Functional,Functional
+338434,Functional ( in use),Functional
+18534,Status:Not functional|Quantity:Not recorded|Quality:Not recorded,vague
+3829,OK,Functional
+313274,Functional,Functional
+323405,Functional,Functional
+77302,Yes- functional.,Functional
+388286,,
+146539,,
+325731,functional,Functional
+60205,,
+17395,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+32517,"Status:Not functional|Breakdown Year:2005|Reason Not Functioning:Tap blocked,|Quantity:Insufficient|Quality:Soft",vague
+263024,Functional,Functional
+81745,No- broken down. Tap head(s) broken or missing | Pipe(s) blocked or disconnected | No water in network or tank,technical_other
+158174,,
+66560,No- broken down. Pipe(s) blocked or disconnected,technical_other
+57725,,
+164938,Working and protected. Not damaged,Functional
+29919,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+207307,Functional,Functional
+312554,Functional,Functional
+29295,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+15059,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+213283,Functional,Functional
+286028,Functional,Functional
+390569,,
+8308,PROBLEM BUT NOT DELIVERING WATER,vague
+273861,Functional,Functional
+286103,Functional,Functional
+325941,not functional,vague
+200594,,
+277560,Functional,Functional
+131088,Water Point Pump Problem|,technical_other
+271711,Functional,Functional
+128638,Water Point Pump Problem|,technical_other
+146875,,
+135140,Water Point Pump Problem|,technical_other
+16061,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+101043,Yes- but partly damaged. Apron Damaged,technical_other
+213651,Functional,Functional
+244351,Functional,Functional
+54041,Status:Functional|Quantity:Not recorded|Quality:Not recorded,Functional
+298769,Functional,Functional
+271240,Non-Functional,vague
+219949,Functional,Functional
+61243,,
+280991,Functional,Functional
+167143,Working and protected. Not damaged,Functional
+274723,Functional,Functional
+6457,OK,Functional
+191637,DRY,quantity_other
+230476,Functional,Functional
+295676,Functional,Functional
+4208,OK,Functional
+280999,Functional (not in use),abandon
+198197,LOST,vague
+214390,Functional,Functional
+319017,Decommissioned,decommissioned
+313095,Functional,Functional
+93745,No- broken down. Well damaged | Apron damaged,technical_other
+204441,Functional,Functional
+239257,Non-Functional,vague
+308968,Functional,Functional
+335274,Functional ( in use),Functional
+214136,Non-Functional,vague
+16987,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+337416,Functional ( in use),Functional
+77092,Yes- functional.,Functional
+76863,Yes- functional.,Functional
+309348,Functional,Functional
+282045,Functional,Functional
+211779,Functional,Functional
+203992,Functional,Functional
+229984,Non-Functional,vague
+144839,Water Point Pump Problem|,technical_other
+52507,"Status:Functional|Reason Not Functioning:Closed, faile|Quantity:Enough|Quality:Soft",Functional
+275105,Functional,Functional
+221409,Functional,Functional
+51612,Status:Functional|Quantity:Seasonal|Quality:Soft,Functional
+83818,Yes- functional.,Functional
+310707,Functional,Functional
+32893,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+237894,Functional,Functional
+196611,DRY,quantity_other
+59906,,
+93971,Yes- functional.,Functional
+218667,Non-Functional,vague
+278577,Functional - OVER SUED BY A BIG POPULATION COLLECTING USER FEES IN A PROBLEM,"overcrowding, funds_maintain"
+274953,"Non-Functional - LOW YIELD, CYLINDER DROPPED IN AND HEAD WAS STOLEN.","quantity_other, technical_other, vandalism"
+260061,Functional,Functional
+181743,OK,Functional
+160874,Operational,Functional
+276273,Non-Functional - It functioned for a little time and water was oily,"quality, technical_other"
+309228,Functional,Functional
+151043,,
+217837,Non-Functional,vague
+31328,Status:Functional|Quantity:Insufficient|Quality:Salty,Functional
+79056,Yes- functional.,Functional
+275621,Non-Functional,vague
+165634,Working and protected. Not damaged,Functional
+309813,Functional,Functional
+160732,Non-Operational,Vague
+3616,PROBLEM BUT NOT DELIVERING WATER,vague
+142872,,
+192844,OK,Functional
+195419,OK,Functional
+201426,,
+324991,Non-Functional,vague
+240751,Functional,Functional
+54125,Status:Not functional|Quantity:Enough|Quality:Soft,vague
+184301,DRY,quantity_other
+1158,OK,Functional
+96373,No- still under construction.,underconst
+211639,Functional,Functional
+219749,Functional,Functional
+349575,,
+255425,Functional,Functional
+111505,,
+97288,Yes- functional.,Functional
+13869,PROBLEM BUT DELIVERING WATER,vague
+213951,Functional,Functional
+390220,,
+261625,Functional,Functional
+309972,Functional (not in use),abandon
+163185,Broken Down System. Not specified,vague
+28803,Status:Not functional|Reason Not Functioning:Technical problem|Quantity:Dry|Quality:Soft,"quantity_other, technical_other"
+212262,Functional,Functional
+27840,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+146013,Water Point Pump Problem|,technical_other
+60729,,
+223913,Non-Functional,vague
+62230,,
+219290,Functional,Functional
+17347,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+325820,not functional,vague
+143230,Pipe Scheme Tap Problem|,technical_other
+271314,Functional,Functional
+65695,Yes- but partly damaged. Apron Damaged,technical_other
+77320,No- still under construction.,underconst
+389815,,
+192040,OK,Functional
+134705,Water Point Plugged and abandoned|,"abandon, technical_other"
+350256,,
+281437,Non-Functional,vague
+294055,Functional,Functional
+314078,Non-Functional,vague
+164645,Working and protected. Not damaged,Functional
+224314,Functional,Functional
+223005,Non-Functional,vague
+307792,Functional - no wsc. to organize resources for repair,"technical_other, mng_other"
+16961,Status:Not functional|Quantity:Insufficient|Quality:Soft,quantity_other
+1708,LOST,vague
+52591,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+206683,Functional,Functional
+201044,,
+6906,PROBLEM BUT NOT DELIVERING WATER,vague
+241257,Functional,Functional
+272524,Functional,Functional
+134194,,
+332629,not functional,vague
+65169,No- broken down. No  pipe  line  connected to  tap  stand.,technical_other
+61133,,
+85664,Yes- functional.,Functional
+226536,Functional,Functional
+82384,Yes- functional.,Functional
+244752,Functional,Functional
+228974,Non-Functional - gravity system has little quanty of water,technical_other
+253464,Functional,Functional
+100748,No- still under construction.,underconst
+225523,Functional,Functional
+13848,OK,Functional
+113477,Water Point Pump Problem|,technical_other
+290424,Non-Functional,vague
+209906,Functional,Functional
+274281,Functional,Functional
+64655,Yes- but partly damaged. Pump damaged,technical_other
+166477,Working and protected. Not damaged,Functional
+294171,Functional,Functional
+142023,,
+163437,Broken Down System. Pump broken,technical_other
+241799,Functional,Functional
+167322,Working and protected. Not damaged,Functional
+184009,OK,Functional
+320018,Non-Functional,vague
+17780,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+225003,Functional,Functional
+175909,Broken Down System. Not specified,vague
+60642,,
+260323,Functional,Functional
+142191,,
+333808,Functional ( in use),Functional
+280406,Functional - POOL AREA TAMPERED WITH AND BROKEN,"technical_other, vandalism"
+148936,,
+94063,Yes- but partly damaged. Pump damaged,technical_other
+177391,Working and protected. Not damaged,Functional
+229365,Functional,Functional
+195160,PROBLEM BUT NOT DELIVERING WATER,vague
+18810,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+260141,Functional,Functional
+317591,Non-Functional,vague
+313047,Functional,Functional
+324438,Functional,Functional
+253652,Functional,Functional
+162141,Operational,Functional
+244721,Functional,Functional
+111021,Pipe Scheme Pipeline Problem|,technical_other
+207562,Non-Functional - PIPE LEAKAGE,technical_other
+283791,Functional,Functional
+306267,Functional,Functional
+61268,,
+101538,Yes- but partly damaged. Tap head(s) broken or missing | Water is leaking,technical_other
+14006,OK,Functional
+9384,OK,Functional
+163343,Working and protected. Not damaged,Functional
+125597,,
+219033,Functional,Functional
+129514,Water Point Pump Problem|,technical_other
+84952,Yes- functional.,Functional
+51301,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+324571,Functional,Functional
+181327,OK,Functional
+31966,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+129352,Water point dry/ drawdown|Water Point Pump Problem|,"quantity_other, technical_other"
+394520,,
+201400,,
+146342,,
+218374,Functional,Functional
+215304,Functional,Functional
+313597,Functional,Functional
+394284,,
+308965,Functional,Functional
+32137,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+237591,Non-Functional - PIPES GOT BROKEN,technical_other
+205341,Functional,Functional
+246194,Functional,Functional
+282208,Functional,Functional
+175157,Working and protected. Not damaged,Functional
+275213,Functional,Functional
+282663,Functional,Functional
+227012,Functional,Functional
+60150,,
+76401,Yes- but partly damaged. Tap head(s) broken or missing | Tapstand leaking | Reservoir damaged/polluted,"quality, technical_other"
+253512,Functional,Functional
+57719,,
+79113,Yes- functional.,Functional
+227845,Non-Functional,vague
+109385,Yes- functional.,Functional
+163992,Working and protected. Not damaged,Functional
+4626,OK,Functional
+191190,OK,Functional
+240201,Functional,Functional
+311536,Functional,Functional
+242141,Functional,Functional
+308507,Functional,Functional
+309642,Functional,Functional
+334218,Functional and in use,Functional
+101391,Yes- but partly damaged. Apron Damaged,technical_other
+321324,Functional,Functional
+212505,Functional,Functional
+283312,Non-Functional,vague
+220807,Functional,Functional
+280505,Non-Functional - CONSTRUCTED FOR REFUGES AND GOT REPATRIATED,vague
+310470,Functional,Functional
+195544,OK,Functional
+272113,Functional,Functional
+134046,,
+101529,Yes- functional.,Functional
+273208,Functional,Functional
+95651,Yes- functional.,Functional
+178480,Working and protected. Not damaged,Functional
+217993,Functional,Functional
+218433,Functional,Functional
+335439,Functional ( in use),Functional
+389053,,
+57026,Status:Not functional|Quantity:Dry|Quality:Not recorded,quantity_other
+93884,No- broken down. Pump damaged,technical_other
+276740,Functional,Functional
+65868,Yes- but partly damaged. Pump damaged,technical_other
+125680,,
+285518,Functional,Functional
+6530,OK,Functional
+389775,,
+191248,DRY,quantity_other
+24884,"Status:Not functional|Breakdown Year:2000|Reason Not Functioning:Pipes are too old, worn out, blocked|Quantity:Insufficient|Quality:Soft","quantity_other, technical_other"
+141661,Water Point Pump Problem|,technical_other
+64498,No- still under construction.,underconst
+323551,Functional - MAIN  SOURCES  SWEPT  AWAY BY FLOODS,flooded
+291149,Functional,Functional
+52770,Status:Not functional|Breakdown Year:2007|Reason Not Functioning:Bh collapsed|Quantity:Enough|Quality:Salty,technical_other
+310599,Functional,Functional
+219595,Functional,Functional
+164861,Broken Down System. u.seal,technical_other
+294382,Functional,Functional
+166995,Working and protected. Not damaged,Functional
+56602,Status:Not functional|Quantity:Dry|Quality:Not recorded,quantity_other
+289849,Functional,Functional
+246839,Functional,Functional
+205592,Functional,Functional
+14846,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+292071,Non-Functional,vague
+125717,,
+200010,LOST,vague
+150201,,
+49608,Status:Not functional|Breakdown Year:2003|Quantity:Insufficient|Quality:Soft,quantity_other
+6254,OK,Functional
+318406,Functional,Functional
+53689,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+62881,,
+162915,Working and protected. Not damaged,Functional
+207751,Non-Functional,vague
+180580,PROBLEM BUT NOT DELIVERING WATER,vague
+50568,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+98974,No- broken down. no water in the well,quantity_other
+31587,Status:Not functional|Breakdown Year:2001|Quantity:Seasonal|Quality:Soft,quantity_other
+335615,Functional ( in use),Functional
+16764,Status:Not functional|Breakdown Year:2006|Reason Not Functioning:Pump has removed|Quantity:Seasonal|Quality:Soft,"quantity_other, vandalism"
+202918,Functional - Low yield,quantity_other
+11859,DRY,quantity_other
+151505,Water Point Pump Problem|,technical_other
+338987,Normally operational,Functional
+256251,Functional,Functional
+338502,Functional ( in use),Functional
+390581,,
+132137,Water Point Pump Problem|,technical_other
+7365,PROBLEM BUT DELIVERING WATER,vague
+245868,Functional,Functional
+276155,Functional - It was vandalised by people who sell scraps,vandalism
+164265,Broken Down System. Pump broken,technical_other
+210551,Functional,Functional
+255211,Non-Functional - THE SOURCE NEEDS REPAIR,technical_other
+126910,Water Point Concrete Problem|Pipe Scheme Tap Problem|,technical_other
+51935,Status:Not functional|Breakdown Year:2000|Quantity:Enough|Quality:Soft,
+201921,Totally functional -,Functional
+288810,Functional,Functional
+312027,Functional,Functional
+278481,Functional,Functional
+94344,Yes- functional.,Functional
+30493,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+288195,Functional,Functional
+321348,Functional,Functional
+230643,Functional,Functional
+27069,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+337173,Non- Functional|Technical breakdown|pump breakage,technical_other
+208694,Functional,Functional
+296822,Functional,Functional
+82074,Yes- functional.,Functional
+160122,Operational,Functional
+16479,Status:Not functional|Breakdown Year:2007|Quantity:Enough|Quality:Soft,vague
+215203,Non-Functional,vague
+298144,Functional,Functional
+211596,Functional,Functional
+18821,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+397672,,
+161796,Operational,Functional
+339559,,
+31198,Status:Not functional|Breakdown Year:2006|Quantity:Enough|Quality:Soft,vague
+184016,OK,Functional
+167242,Working and protected. Not damaged,Functional
+263152,Functional,Functional
+285105,Non-Functional,vague
+99440,Yes- functional.,Functional
+291222,Functional,Functional
+54463,Status:Functional|Quantity:Insufficient|Quality:Salty,Functional
+398237,,
+62087,,
+162913,Broken Down System. HANDLE. AND ALL THE INTERIOR. INSTILLATIONS REMOVE.,vandalism
+217488,Functional (not in use),abandon
+310898,Functional (not in use),abandon
+77985,No- broken down. Well damaged | Apron damaged,technical_other
+9685,LOST,vague
+227270,Non-Functional,vague
+307683,Functional,Functional
+160441,Operational,Functional
+133927,Water Point Pump Problem|,technical_other
+280880,Functional,Functional
+54490,Status:Not functional|Quantity:Insufficient|Quality:Salty,"quantity_other, quality"
+219659,Non-Functional,vague
+143840,,
+60736,,
+242731,Functional,Functional
+280812,Functional,Functional
+323408,Functional,Functional
+218395,Functional,Functional
+133216,,
+282494,Non-Functional - BECAUSE THE WATER IS NOT FUNCTIONAL,
+96088,Yes- functional.,Functional
+191093,DRY,quantity_other
+387836,,
+323654,Non-Functional - LOW YIELD,quantity_other
+255887,Functional,Functional
+6197,OK,Functional
+18678,Status:Not functional|Reason Not Functioning:Under repair|Quantity:Insufficient|Quality:Soft,"underconst, quantity_other"
+317949,Functional,Functional
+198004,OK,Functional
+243383,Functional,Functional
+259952,Non-Functional,vague
+161762,Operational,Functional
+134159,Water Point Plugged and abandoned|,"abandon, technical_other"
+10597,DRY,quantity_other
+313539,Functional (not in use)  - THE SOURCE WAS ABANDONED,abandon
+242689,Functional,Functional
+9826,PROBLEM BUT NOT DELIVERING WATER,vague
+198501,OK,Functional
+77626,Yes- functional.,Functional
+339669,,
+85404,Yes- functional.,Functional
+93902,Yes- but partly damaged. Well damaged,technical_other
+134090,,
+93188,No- broken down. Apron damaged | Pump damaged | pipe water cylinder damaged.,technical_other
+350588,,
+30964,Status:Functional|Reason Not Functioning:Other|Quantity:Not recorded|Quality:Not recorded,Functional
+190843,OK,Functional
+349014,,
+133988,,
+17708,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+197055,OK,Functional
+214700,Functional,Functional
+219503,Functional,Functional
+259727,Non-Functional - THE SOURCE WAS CONSTRUCTED NEAR A STREAM WHICH MAKES WATER DIRTY,"siting, quality"
+283721,Functional,Functional
+164545,Working and protected. Not damaged,Functional
+148829,Water Point Pump Problem|,technical_other
+290860,Non-Functional,vague
+299627,Functional,Functional
+165239,Working but with problems. Well damaged,technical_other
+61378,,
+394274,,
+113214,,
+352338,,
+14431,OK,Functional
+396764,,
+293163,Functional,Functional
+134280,,
+58119,,
+254341,Functional,Functional
+217656,Functional,Functional
+294019,Non-Functional,vague
+283227,Functional,Functional
+94265,Yes- but partly damaged. Well damaged | Well polluted | No aoron |  no sockaway pit | no headwall cover |  no stand for rope and bucket,"quality, technical_other, missingparts"
+218116,Functional,Functional
+334938,Functional ( not in use),abandon
+244873,Functional,Functional
+181866,OK,Functional
+271602,Functional,Functional
+150081,,
+18949,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+66705,Yes- functional.,Functional
+350775,,
+316077,Functional,Functional
+14824,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+191595,DRY,quantity_other
+218024,Non-Functional,vague
+320901,Functional,Functional
+340073,,
+211040,Functional,Functional
+132947,,
+32272,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+280193,Functional,Functional
+396898,,
+280895,Functional,Functional
+178942,OK,Functional
+131199,,
+396430,because  of  the     connection  of   the  pipe,
+334527,Non functional|Technical breakdown|Tank started leaking.,technical_other
+256089,Functional,Functional
+69278,Yes- functional.,Functional
+290284,Functional,Functional
+95886,Yes- but partly damaged. Solar power is too low to supply water on a daily basis,electricity
+100609,Yes- functional.,Functional
+323317,Functional,Functional
+275660,"Non-Functional - TAPS BROKEN, GUTTERS ALSO DAMAGED.",technical_other
+240245,Functional,Functional
+273475,Functional,Functional
+318566,Functional,Functional
+295171,Functional,Functional
+192039,DRY,quantity_other
+163965,Broken Down System. Not specified,vague
+65833,Yes- but partly damaged. Pump damaged,technical_other
+307979,Functional,Functional
+92613,No- broken down. pulley damaged,technical_other
+352904,,
+257788,Functional,Functional
+334927,Functional and in use,Functional
+311136,Functional,Functional
+129442,,
+183447,OK,Functional
+241531,Functional,Functional
+180204,OK,Functional
+113380,Water Point Pump Problem|,technical_other
+324952,Functional,Functional
+229557,Functional,Functional
+307857,Functional,Functional
+145638,,
+307166,Functional,Functional
+49855,Status:Not functional|Breakdown Year:2003|Quantity:Insufficient|Quality:Soft,quantity_other
+116691,Water Point Pump Problem|,technical_other
+1602,OK,Functional
+3027,OK,Functional
+201521,,
+256185,Functional,Functional
+162982,Broken Down System. Well damaged,technical_other
+202408,Partially functioning,Functional
+110730,Yes- but partly damaged. Tap head(s) broken or missing,"technical_other, missingparts"
+99944,Yes- but partly damaged. Pump damaged,technical_other
+111997,,
+101890,Yes- functional.,Functional
+396552,,
+214081,Functional,Functional
+206607,Functional,Functional
+163670,Broken Down System. Apron damaged,technical_other
+391548,,
+237555,Functional,Functional
+203194,Non-Functional - Low yield,quantity_other
+115256,,
+243544,Functional,Functional
+258132,Functional,Functional
+93255,Yes- functional.,Functional
+316944,Functional,Functional
+273538,Non-Functional,vague
+111328,Water point working with Bucket|Water Point Concrete Problem|,technical_other
+76119,Yes- functional.,Functional
+97280,Yes- functional.,Functional
+215328,Non-Functional,vague
+165070,Broken Down System. Pump stolen,vandalism
+144077,,
+13329,OK,Functional
+258904,Non-Functional,vague
+183168,OK,Functional
+317437,Functional,Functional
+296137,Functional,Functional
+280075,Functional,Functional
+67660,No- broken down. Tapstand leaking,technical_other
+291043,Functional,Functional
+115576,Pipe Scheme Tap Problem|,technical_other
+69138,Yes- functional.,Functional
+17104,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+64656,No- broken down. Apron damaged,technical_other
+184174,OK,Functional
+306457,Functional,Functional
+129135,Water Point Pump Problem|,technical_other
+394415,,
+263387,Functional,Functional
+112442,Water point working with Bucket|,Functional
+215350,Non-Functional,vague
+109886,Yes- functional.,Functional
+48977,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+260712,Functional,Functional
+158759,,
+351559,,
+82609,Yes- functional.,Functional
+199694,OK,Functional
+239881,Functional,Functional
+192526,OK,Functional
+391233,,
+242356,Functional,Functional
+14897,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+216371,Functional,Functional
+94435,Yes- functional.,Functional
+51855,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+244848,Functional,Functional
+322452,Functional,Functional
+221871,Functional,Functional
+297015,Non-Functional,vague
+13085,OK,Functional
+159289,,
+78893,Yes- functional.,Functional
+143750,,
+114290,Water point dry/ drawdown|Water Point Concrete Problem|,"quantity_other, technical_other"
+57506,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+239645,Functional,Functional
+296104,Non-Functional,vague
+15513,Status:Not functional|Breakdown Year:2007|Reason Not Functioning:Pipe need repair|Quantity:Insufficient|Quality:Soft,"quantity_other, technical_other"
+201469,,
+218751,Functional,Functional
+184088,OK,Functional
+210568,Functional,Functional
+67493,Yes- functional.,Functional
+299688,Functional,Functional
+334693,Functional and in use,Functional
+217177,Functional,Functional
+197482,PROBLEM BUT NOT DELIVERING WATER,vague
+146211,Water Point Pump Problem|,technical_other
+56742,Status:Not functional|Quantity:Enough|Quality:Soft,vague
+290027,Non-Functional,vague
+26720,Status:Functional|Quantity:Seasonal|Quality:Soft,Functional
+18605,Status:Not functional|Reason Not Functioning:Pump stolen|Quantity:Insufficient|Quality:Soft,"quantity_other, vandalism"
+147701,,
+350288,,
+4799,OK,Functional
+290798,Functional,Functional
+158113,,
+310555,Functional,Functional
+84228,No- broken down. Well damaged,technical_other
+84983,Yes- functional.,Functional
+230488,Functional,Functional
+256768,Functional,Functional
+282357,Functional,Functional
+201733,,
+96856,Yes- functional.,Functional
+338415,Functional ( in use),Functional
+97959,Yes- functional.,Functional
+334769,Functional and in use but in bad shape|Requires protection,const_des
+391322,,
+240820,Functional,Functional
+29651,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+224177,Functional,Functional
+68055,Yes- functional.,Functional
+126613,Water Point Concrete Problem|Water Point Pump Problem|,technical_other
+29052,Status:Functional|Quantity:Insufficient|Quality:Salty,Functional
+6515,OK,Functional
+3374,OK,Functional
+324855,Functional,Functional
+316373,Non-Functional,vague
+286717,Functional,Functional
+7830,PROBLEM BUT NOT DELIVERING WATER,vague
+229615,Non-Functional,vague
+320284,Functional,Functional
+110727,Yes- but partly damaged. Tap head(s) broken or missing,"technical_other, missingparts"
+16993,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+397204,,
+111022,,
+324355,Functional,Functional
+125601,,
+319125,Decommissioned,decommissioned
+63713,No- broken down. Pump damaged,technical_other
+229968,Functional,Functional
+271387,Non-Functional,vague
+313169,Functional,Functional
+348954,,
+115606,Water point dry/ drawdown|Water Point Pump Problem|,"quantity_other, technical_other"
+199626,LOST,vague
+10244,DRY,quantity_other
+192871,OK,Functional
+338672,Normally operational,Functional
+24131,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+210808,Functional,Functional
+204131,,
+147563,,
+76798,Yes- functional.,Functional
+323121,Functional,Functional
+229293,Functional,Functional
+81157,Yes- functional.,Functional
+3377,OK,Functional
+213109,Functional,Functional
+30309,Status:Not functional|Breakdown Year:1997|Quantity:Enough|Quality:Soft,vague
+165978,Working and protected. Not damaged,Functional
+238939,Functional,Functional
+229036,Functional,Functional
+175258,Broken Down System. Not specified,vague
+81292,No- broken down. Tap head(s) broken or missing | Pipe(s) blocked or disconnected,technical_other
+58150,,
+396463,system completely damage,
+132933,,
+324190,Non-Functional - People around could not pay for maintenance.,funds_maintain
+142967,,
+306750,Functional,Functional
+229809,Non-Functional,vague
+319079,Non-Functional,vague
+148547,,
+320801,Non-Functional,vague
+296434,Functional,Functional
+183970,OK,Functional
+273841,Non-Functional - Pipes are linking,vague
+176205,Working and protected. Not damaged,Functional
+113985,,
+83593,Yes- functional.,Functional
+177316,Working but with problems. Apron damaged,technical_other
+51797,Status:Not functional|Breakdown Year:2002|Reason Not Functioning:Cylinder and|Quantity:Insufficient|Quality:Soft,"quantity_other, technical_other"
+196059,DRY,quantity_other
+294480,Functional,Functional
+13487,OK,Functional
+112503,,
+183269,OK,Functional
+166521,Working and protected. Not damaged,Functional
+3755,DRY,quantity_other
+243283,Functional,Functional
+50561,Status:Not functional|Breakdown Year:2008|Quantity:Enough|Quality:Soft,vague
+18812,Status:Not functional|Quantity:Enough|Quality:Soft,vague
+245415,Functional,Functional
+225314,Functional,Functional
+195492,DRY,quantity_other
+52991,Status:Not functional|Quantity:Seasonal|Quality:Soft,quantity_other
+64762,Yes- functional.,Functional
+126378,Water Point Pump Problem|,technical_other
+244851,Functional,Functional
+117151,Water Point Pump Problem|,technical_other
+199619,PROBLEM BUT NOT DELIVERING WATER,vague
+178772,OK,Functional
+100739,Yes- functional.,Functional
+94534,No- broken down. Pump damaged,technical_other
+147987,,
+76986,Yes- functional.,Functional
+396759,Problem In The Pipe,
+163688,Working but with problems. Well polluted,quality
+349614,,
+115915,,
+260435,Non-Functional - THE PIPES USED WERE ALL BROKEN AND FILLED WITH STORES,vandalism
+203943,Functional,Functional
+166591,Working and protected. Not damaged,Functional
+239751,Functional,Functional
+116814,,
+94348,Yes- but partly damaged. Pipe(s) blocked or disconnected | No water in tank,"quality, technical_other"
+118625,,
+209998,Functional,Functional
+273150,Non-Functional,vague
+110771,Yes- functional.,Functional
+388624,,
+314705,Functional,Functional
+82257,Yes- functional.,Functional
+143377,,
+201600,,
+12576,DRY,quantity_other
+165779,Working and protected. Not damaged,Functional
+337378,Functional ( in use),Functional
+1519,DRY,quantity_other
+299560,Functional,Functional
+245736,Functional,Functional
+255622,Functional,Functional
+396058,,
+25986,Status:Functional|Quantity:Seasonal|Quality:Soft,Functional
+64214,No- broken down. Tap head(s) broken or missing,technical_other
+25945,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+194865,OK,Functional
+66452,No- still under construction.,underconst
+262948,Functional,Functional
+319131,Decommissioned,decommissioned
+68459,Yes- functional.,Functional
+114775,,
+181201,OK,Functional
+216853,Non-Functional,vague
+183881,OK,Functional
+214297,Non-Functional,vague
+141938,Water Point Pump Problem|,technical_other
+295652,Functional,Functional
+66426,No- broken down. Pump damaged,technical_other
+281953,Non-Functional - WATER TABLE LOWERED,quantity_other
+167648,Broken Down System. Pump stolen,vandalism
+311458,Functional,Functional
+200337,OK,Functional
+261591,"Functional - DAMAGED PIPES ,RIDS",technical_other
+115113,,
+52482,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+76719,Yes- functional.,Functional
+237141,Functional - Water source not well developed,vague
+2709,OK,Functional
+179134,OK,Functional
+191197,OK,Functional
+258295,Functional,Functional
+148293,,
+388681,,
+191966,OK,Functional
+5676,DRY,quantity_other
+306549,Functional,Functional
+27024,Status:Not functional|Quantity:Seasonal|Quality:Soft,quantity_other
+395462,,
+192614,PROBLEM BUT NOT DELIVERING WATER,vague
+78746,Yes- functional.,Functional
+53070,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+166142,Working and protected. Not damaged,Functional
+133052,Water Point Pump Problem|,technical_other
+125868,,
+221607,Functional,Functional
+239087,Functional,Functional
+288913,Functional,Functional
+282176,Non-Functional,vague
+110362,Yes- but partly damaged. Tank damaged | No water in tank,technical_other
+56652,Status:Not functional|Quantity:Dry|Quality:Soft,quantity_other
+257742,Functional,Functional
+201814,Totally functional -,Functional
+238214,Functional,Functional
+257319,Functional,Functional
+98975,No- broken down. Pump damaged,technical_other
+64303,No- broken down. Pump damaged,technical_other
+132815,Water Point Collapsed/ Destroyed|,technical_other
+212259,Functional,Functional
+228673,Functional,Functional
+279674,Functional,Functional
+258426,Functional,Functional
+2258,OK,Functional
+77026,Yes- functional.,Functional
+129961,Water point dry/ drawdown|,"quantity_other, technical_other"
+79115,Yes- functional.,Functional
+68302,Yes- functional.,Functional
+92973,No- broken down. Pump damaged,technical_other
+113227,Water point working with Bucket|,Functional
+228803,Functional (not in use),abandon
+207410,Non-Functional,vague
+167814,Working and protected. Not damaged,Functional
+297103,Functional,Functional
+146749,Water Point Concrete Problem|,technical_other
+275421,Functional,Functional
+256959,Functional,Functional
+51595,Status:Not functional|Breakdown Year:2006|Quantity:Enough|Quality:Soft,vague
+11515,OK,Functional
+54802,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+14617,DRY,quantity_other
+282044,Functional,Functional
+243471,Non-Functional,vague
+112392,Water point dry/ drawdown|,"quantity_other, technical_other"
+101864,Yes- functional.,Functional
+350753,,
+312015,Functional,Functional
+176052,Working and protected. Not damaged,Functional
+126125,,
+389209,,
+230142,Functional,Functional
+94105,Yes- functional.,Functional
+7231,OK,Functional
+283705,Functional,Functional
+196124,PROBLEM BUT NOT DELIVERING WATER,vague
+10176,DRY,quantity_other
+352680,,
+241343,Non-Functional,vague
+48978,Status:Functional|Breakdown Year:2007|Quantity:Enough|Quality:Soft,Functional
+13135,DRY,quantity_other
+110911,,
+322473,Functional,Functional
+31505,Status:Not functional|Breakdown Year:2008|Quantity:Enough|Quality:Soft,vague
+312924,Functional,Functional
+333362,not functional,vague
+111882,Water Point Pump Problem|,technical_other
+391523,,
+8038,OK,Functional
+158005,,
+27995,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+244750,Functional,Functional
+197176,PROBLEM BUT NOT DELIVERING WATER,vague
+291961,Functional,Functional
+247006,Non-Functional,vague
+79066,Yes- functional.,Functional
+52364,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+52788,Status:Not functional|Breakdown Year:2004|Quantity:Seasonal|Quality:Milky,"quantity_other, quality"
+49532,Status:Not functional|Breakdown Year:2003|Quantity:Insufficient|Quality:Soft,quantity_other
+349738,,
+134471,Water Point Collapsed/ Destroyed|,technical_other
+352420,,
+160856,Operational,Functional
+191359,OK,Functional
+81464,Yes- functional.,Functional
+205763,Functional,Functional
+299311,Functional,Functional
+319245,Functional,Functional
+178680,OK,Functional
+132744,Water Point Pump Problem|,technical_other
+339211,System is Broken|System is Down for Maintenance  or Repair|Rationing|Seasonal Shortages|Broken Parts|Not Enough Water Flow|Poor Water Quality,"quantity_other, quality, technical_other"
+145943,,
+62912,,
+11776,DRY,quantity_other
+29591,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+243915,Functional,Functional
+196707,DRY,quantity_other
+203051,Functional (not in use),abandon
+55357,Status:Not functional|Quantity:Enough|Quality:Soft,vague
+274793,Non-Functional,vague
+295424,Non-Functional,vague
+318707,Functional,Functional
+260444,Functional,Functional
+240147,Functional,Functional
+283831,Non-Functional,vague
+80032,Yes- functional.,Functional
+176363,Working and protected. Not damaged,Functional
+322908,Functional,Functional
+125971,Water Point Concrete Problem|Water Point Pump Problem|,technical_other
+193283,PROBLEM BUT NOT DELIVERING WATER,vague
+27335,Status:Not functional|Breakdown Year:2008|Reason Not Functioning:Cylinder broken|Quantity:Enough|Quality:Soft,technical_other
+161155,Operational,Functional
+279395,Functional - NOT PROPERLY DIRECTED TO THE COLLECTION BOX,"vague, const_des, technical_other"
+278223,Functional,Functional
+175812,Broken Down System. Pump stolen,vandalism
+19046,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+49942,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+246463,Functional,Functional
+100677,Yes- functional.,Functional
+61990,,
+51048,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+291146,Functional,Functional
+31157,Status:Functional|Quantity:Enough|Quality:Salty,Functional
+29550,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+258137,Functional,Functional
+256437,Functional,Functional
+219706,Functional,Functional
+165210,Working and protected. Not damaged,Functional
+77069,Yes- but partly damaged. Pump damaged,technical_other
+112383,Water point dry/ drawdown|,"quantity_other, technical_other"
+83230,Yes- functional.,Functional
+397990,,
+274343,Non-Functional,vague
+11774,DRY,quantity_other
+134346,,
+7549,OK,Functional
+203295,Functional,Functional
+192286,DRY,quantity_other
+166891,Working and protected. Not damaged,Functional
+290784,Functional,Functional
+180989,OK,Functional
+230086,Functional - Technical breakdown,technical_other
+273804,Functional,Functional
+79389,Yes- functional.,Functional
+150698,Pipe Scheme Tap Problem|,technical_other
+286341,Functional,Functional
+60976,,
+241208,Functional,Functional
+316229,Functional,Functional
+227299,Functional (not in use),abandon
+184243,PROBLEM BUT NOT DELIVERING WATER,vague
+284583,Functional,Functional
+291724,Functional,Functional
+109739,Yes- functional.,Functional
+16011,Status:Not functional|Breakdown Year:2006|Quantity:Enough|Quality:Soft,vague
+274822,Functional,Functional
+167652,Broken Down System. Well damaged,technical_other
+126829,,
+180670,OK,Functional
+98560,Yes- functional.,Functional
+67186,Yes- functional.,Functional
+66925,No- broken down. PIPE TOO SHORT AND ALSO SINKING NOT PROPERLY DONE,const_des
+202523,Always functioning,Functional
+116658,Water Point Pump Problem|,technical_other
+178649,OK,Functional
+224173,Functional,Functional
+388277,,
+111215,Pipe Scheme Catchment Problem|,technical_other
+226182,Decommissioned,decommissioned
+53737,Status:Not functional|Quantity:Insufficient|Quality:Soft,quantity_other
+180426,OK,Functional
+5428,LOST,vague
+246760,Functional,Functional
+334465,Non functional,
+206071,Functional,Functional
+222273,Functional,Functional
+209641,Functional,Functional
+288037,Functional,Functional
+211116,Non-Functional,vague
+323266,Functional,Functional
+147787,,
+219708,Non-Functional,vague
+198589,PROBLEM BUT NOT DELIVERING WATER,vague
+9162,OK,Functional
+390398,,
+318443,Functional,Functional
+166083,Broken Down System. Well polluted,quality
+64280,Yes- but partly damaged. Well polluted,"quality, technical_other"
+213474,Functional - DEFECTIVE PIPES,technical_other
+11127,OK,Functional
+94826,Yes- but partly damaged. Apron Damaged,technical_other
+277596,Functional,Functional
+398674,,
+317295,Functional,Functional
+183818,OK,Functional
+160291,Non-Operational,Vague
+147416,,
+219722,Functional,Functional
+244955,Functional,Functional
+225984,Functional,Functional
+202423,Always functioning,Functional
+206074,Functional,Functional
+396170,,
+159815,Water Point Pump Problem|,technical_other
+118669,,
+257682,Functional,Functional
+290617,Non-Functional - PIPES WERE REPLACED BUT THERE WAS POOR WORKMANSHIP,repair_fail
+14043,OK,Functional
+134521,,
+221342,Non-Functional,vague
+271739,Functional,Functional
+220924,Non-Functional,vague
+225592,Functional,Functional
+110407,Yes- functional.,Functional
+62563,,
+61676,,
+15139,Status:Functional|Reason Not Functioning:Functioning well|Quantity:Enough|Quality:Soft,Functional
+280262,Functional,Functional
+81079,No- broken down. Well damaged | Pump damaged,technical_other
+256729,Functional,Functional
+387044,,
+62254,,
+163777,Broken Down System. Pump broken,technical_other
+113176,Water point working with Bucket|,Functional
+176228,Working and protected. Not damaged,Functional
+226532,Functional,Functional
+298264,Functional,Functional
+291578,Functional,Functional
+261579,Functional,Functional
+313767,Functional,Functional
+131204,,
+174886,Working but with problems. Well damaged,technical_other
+81775,No- broken down. Well polluted,quality
+192108,OK,Functional
+210968,Functional,Functional
+227724,Functional,Functional
+11769,OK,Functional
+109002,Yes- functional.,Functional
+65409,Yes- functional.,Functional
+180157,OK,Functional
+181724,OK,Functional
+110680,No- still under construction.,underconst
+113433,Water point dry/ drawdown|,"quantity_other, technical_other"
+278381,Functional,Functional
+310036,Functional,Functional
+117038,,
+199369,OK,Functional
+256398,Non-Functional,vague
+147606,,
+335572,Functional ( in use),Functional
+352396,,
+161447,Permanently non operational,vague
+49698,Status:Not functional|Breakdown Year:2003|Quantity:Insufficient|Quality:Soft,quantity_other
+209484,Functional,Functional
+275471,Non-Functional,vague
+198698,DRY,quantity_other
+117895,,
+80096,Yes- functional.,Functional
+16560,Status:Functional|Quantity:Seasonal|Quality:Soft,Functional
+241591,Functional,Functional
+126372,,
+158776,,
+296648,Functional,Functional
+282874,Functional - WATER FROM THE CATCHMENT CANNOT REACH THE TANK DUE TO POOR ANGLE CALCULATION.,const_des
+204381,Functional,Functional
+175282,Working and protected. Not damaged,Functional
+319608,Non-Functional,vague
+145443,,
+11924,OK,Functional
+312002,Functional,Functional
+126747,,
+391147,,
+243638,Non-Functional,vague
+115248,,
+224616,Functional,Functional
+240462,Functional,Functional
+180247,OK,Functional
+352621,,
+324624,Functional,Functional
+176817,Working and protected. Not damaged,Functional
+194481,OK,Functional
+312562,Functional,Functional
+348753,,
+271168,Functional,Functional
+288727,Functional,Functional
+131584,,
+313059,Functional,Functional
+149868,,
+80711,Yes- functional.,Functional
+293180,Functional,Functional
+322405,Functional,Functional
+32324,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+11454,PROBLEM BUT DELIVERING WATER,vague
+242242,Functional,Functional
+12341,OK,Functional
+16674,Status:Not functional|Breakdown Year:1977|Reason Not Functioning:Engine was broken|Quantity:Dry|Quality:Not recorded,"quantity_other, technical_other"
+259374,Functional,Functional
+166342,Working but with problems. Apron damaged,technical_other
+158419,,
+237337,Functional,Functional
+66738,No- broken down. Tap head(s) broken or missing,technical_other
+50252,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+134925,Water Point Collapsed/ Destroyed|,technical_other
+12585,DRY,quantity_other
+19666,Status:Functional|Quantity:Not recorded|Quality:Not recorded,Functional
+273279,Functional,Functional
+394310,,
+253599,Functional,Functional
+311589,Functional,Functional
+148541,,
+318285,Functional,Functional
+241170,Non-Functional - WSC NOT IN PLACE,mng_other
+54389,Status:Not functional|Quantity:Insufficient|Quality:Milky,"quantity_other, quality"
+204167,Functional,Functional
+319935,Functional (not in use),abandon
+175611,Broken Down System. Pump broken,technical_other
+80440,Yes- functional.,Functional
+387287,,
+81032,Yes- functional.,Functional
+199546,OK,Functional
+225646,Non-Functional - gutters need replacement,technical_other
+227266,Functional,Functional
+56756,Status:Not functional|Quantity:Seasonal|Quality:Not recorded,quantity_other
+296256,Non-Functional,vague
+148545,,
+177247,Broken Down System. Pump stolen,vandalism
+228501,Functional,Functional
+164842,Working and protected. Not damaged,Functional
+392361,,
+259350,Functional,Functional
+222695,Functional,Functional
+7026,PROBLEM BUT NOT DELIVERING WATER,vague
+310698,Functional,Functional
+291484,Non-Functional,vague
+388231,,
+191766,DRY,quantity_other
+9896,OK,Functional
+351050,,
+349085,,
+32722,Status:Not functional|Quantity:Enough|Quality:Soft,vague
+281554,Functional,Functional
+201757,Not funcional - No catchment,missingparts
+100863,Yes- functional.,Functional
+218412,Functional,Functional
+179154,OK,Functional
+225501,Functional,Functional
+112560,,
+275776,Functional - STOPPED YIELDING,vague
+134074,,
+311669,Functional,Functional
+261875,Functional,Functional
+351096,,
+227762,Functional,Functional
+158276,Water point dry/ drawdown|Water Point Collapsed/ Destroyed|Water Point Plugged and abandoned|,"abandon, quantity_other, technical_other"
+242884,Functional,Functional
+208535,Functional (not in use),abandon
+175558,Working and protected. Not damaged,Functional
+197153,OK,Functional
+24549,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+321887,Functional,Functional
+336226,Functional ( in use),Functional
+176682,Working and protected. Not damaged,Functional
+143915,,
+92919,Yes- functional.,Functional
+352376,,
+115228,,
+396874,,
+80275,Yes- functional.,Functional
+257090,Non-Functional,vague
+205766,Functional,Functional
+272103,Functional,Functional
+80806,No- still under construction.,underconst
+157944,Water Point Collapsed/ Destroyed|,technical_other
+332798,functional,Functional
+27181,Status:Functional|Breakdown Year:2008|Quantity:Enough|Quality:Soft,Functional
+287573,Functional,Functional
+17872,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+60876,,
+2431,OK,Functional
+282230,Functional,Functional
+205740,Functional,Functional
+238925,Functional,Functional
+237879,Non-Functional,vague
+334978,Functional ( in use),Functional
+135045,Water Point Pump Problem|,technical_other
+161901,Operational,Functional
+395056,,
+161018,Operational,Functional
+165250,Broken Down System. Pump broken,technical_other
+182582,OK,Functional
+31440,Status:Not functional|Quantity:Insufficient|Quality:Salty,"quantity_other, quality"
+80450,No- broken down. rock,"vague, technical_other"
+51763,Status:Not functional|Reason Not Functioning:pipe not connected|Quantity:Enough|Quality:Soft,technical_other
+205547,Functional,Functional
+178107,Working and protected. Not damaged,Functional
+258126,Non-Functional,vague
+11126,OK,Functional
+276071,Functional,Functional
+292393,Functional,Functional
+6818,DRY,quantity_other
+295347,Functional,Functional
+225471,Functional,Functional
+337289,Non- Functional|Technical breakdown|pump breakage,technical_other
+100767,Yes- functional.,Functional
+224047,Functional,Functional
+12493,DRY,quantity_other
+238135,Functional,Functional
+228313,Non-Functional,vague
+244511,Functional,Functional
+49487,Status:Not functional|Breakdown Year:1994|Quantity:Insufficient|Quality:Soft,vague
+15884,Status:Functional|Quantity:Enough|Quality:Salty,Functional
+100343,Yes- but partly damaged. Pump damaged,technical_other
+65890,Yes- but partly damaged. Tap head(s) broken or missing,"technical_other, missingparts"
+16816,Status:Not functional|Breakdown Year:2001|Reason Not Functioning:Pump stolen|Quantity:Insufficient|Quality:Soft,"quantity_other, vandalism"
+349281,,
+65480,Yes- functional.,Functional
+130380,,
+223710,Functional,Functional
+218522,Non-Functional,vague
+243182,Functional,Functional
+228361,Functional,Functional
+217325,Functional,Functional
+162852,Working but with problems. Well damaged,technical_other
+391471,,
+278503,Functional,Functional
+54907,Status:Not functional|Quantity:Insufficient|Quality:Coloured,"quantity_other, quality"
+391260,,
+166113,Broken Down System. Pump stolen,vandalism
+130812,Water point dry/ drawdown|,"quantity_other, technical_other"
+79466,Yes- functional.,Functional
+51248,Status:Not functional|Breakdown Year:2006|Quantity:Enough|Quality:Soft,vague
+79694,Yes- functional.,Functional
+114130,,
+134704,Water Point Pump Problem|,technical_other
+240059,Functional,Functional
+278441,Functional,Functional
+68205,Yes- functional.,Functional
+118196,,
+338846,New,vague
+210861,Functional,Functional
+256638,Functional,Functional
+272466,Functional,Functional
+164651,Working and protected. Not damaged,Functional
+387627,,
+320655,Functional,Functional
+315731,Functional,Functional
+258525,Functional,Functional
+69206,Yes- functional.,Functional
+277023,Non-Functional,vague
+180691,PROBLEM BUT NOT DELIVERING WATER,vague
+394125,,
+82514,Yes- functional.,Functional
+226444,Functional,Functional
+201662,,
+143857,,
+280207,Functional,Functional
+180934,OK,Functional
+311678,Functional,Functional
+110258,Yes- functional.,Functional
+215315,Functional,Functional
+24440,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+221783,Functional,Functional
+15034,Status:Functional|Breakdown Year:1987|Reason Not Functioning:or management|Quantity:Dry|Quality:Soft,Functional
+278414,Functional,Functional
+144982,,
+222924,Functional,Functional
+99349,Yes- functional.,Functional
+181133,OK,Functional
+77731,Yes- functional.,Functional
+60785,,
+205625,Functional (not in use)  - The source sunk down,"vague, abandon"
+795,OK,Functional
+49058,Status:Not functional|Breakdown Year:1996|Reason Not Functioning:The pumping machine stolen|Quantity:Enough|Quality:Soft,vandalism
+391179,,
+221962,Functional,Functional
+224971,Functional,Functional
+218838,Functional,Functional
+278480,Functional,Functional
+196674,OK,Functional
+225412,Functional,Functional
+286718,Functional,Functional
+118358,Pipe Scheme Reservoir Problem|Pipe Scheme Generator Problem|,technical_other
+127303,,
+270543,Functional,Functional
+397100,,
+246836,Functional,Functional
+130751,Water Point Concrete Problem|Water Point Pump Problem|,technical_other
+64244,Yes- functional.,Functional
+114497,,
+210117,Functional,Functional
+132185,,
+243916,Functional,Functional
+261416,Non-Functional - THE HARVESTING SYSTEM IS LEAKING AND THE TAP,technical_other
+391691,,
+332878,functional,Functional
+256221,Non-Functional,vague
+129502,,
+178111,Broken Down System. Not specified,vague
+192046,DRY,quantity_other
+99548,Yes- functional.,Functional
+209126,Functional,Functional
+162289,Operational,Functional
+297614,Functional,Functional
+19516,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+175668,Working and protected. Not damaged,Functional
+130172,,
+5109,DRY,quantity_other
+68749,Yes- functional.,Functional
+175983,Broken Down System. well and pump damaged,technical_other
+135115,Water Point Pump Problem|,technical_other
+273556,Functional,Functional
+196946,DRY,quantity_other
+196464,PROBLEM BUT NOT DELIVERING WATER,vague
+238110,Functional - WATER SOURCE IS SEASONAL,water_resource
+147804,,
+194430,PROBLEM BUT NOT DELIVERING WATER,vague
+321046,Non-Functional,vague
+196955,OK,Functional
+97576,Yes- functional.,Functional
+283998,Functional,Functional
+296665,Functional,Functional
+339018,System is Broken|System is Down for Maintenance  or Repair|Broken Parts,technical_other
+15783,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+25062,"Status:Functional|Reason Not Functioning:Plugged, tobe moved for house constr|Quantity:Enough|Quality:Soft",Functional
+144488,,
+201715,,
+387430,,
+162078,Operational,Functional
+178613,,
+333735,Functional ( in use),Functional
+149191,,
+324804,Functional,Functional
+51947,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+335575,Functional ( in use),Functional
+325244,Non-Functional,vague
+335394,Functional ( in use),Functional
+286105,Functional,Functional
+295614,Functional - INADEQUATE TECHNICAL PERSONNEL MONITOR,mechanic
+3153,OK,Functional
+318538,Functional,Functional
+219951,Functional,Functional
+195334,OK,Functional
+273122,Non-Functional - THE WHOLE HEAD WAS STOLEN AND NO REPLACEMENT MADE,vandalism
+141793,,
+32542,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+298440,Non-Functional,vague
+26002,Status:Not functional|Breakdown Year:2004|Reason Not Functioning:Pump removed because there is no water|Quantity:Dry|Quality:Soft,"quantity_other, vandalism"
+142121,Pipe Scheme Submersible Pump Problem|Pipe Scheme Generator Problem|Pipe Scheme Generator Room Problem|,technical_other
+67479,Yes- functional.,Functional
+217700,Functional,Functional
+195820,DRY,quantity_other
+351986,,
+151362,Water Point Pump Problem|,technical_other
+315865,Functional,Functional
+133548,,
+112836,,
+204807,Functional,Functional
+218287,Non-Functional,vague
+284222,Functional,Functional
+218808,Functional,Functional
+76932,Yes- functional.,Functional
+255750,Non-Functional,vague
+348711,,
+320228,Functional,Functional
+230640,Functional,Functional
+99230,Yes- functional.,Functional
+16470,Status:Not functional|Breakdown Year:2003|Quantity:Seasonal|Quality:Soft,quantity_other
+216863,Functional,Functional
+306445,Functional,Functional
+116158,,
+98070,Yes- but partly damaged. Tap head(s) broken or missing,"technical_other, missingparts"
+257224,Non-Functional - WATER TABLE WENT DOWN,quantity_other
+319805,Non-Functional,vague
+204739,Non-Functional,vague
+320710,Functional,Functional
+49190,Status:Not functional|Breakdown Year:Not known|Quantity:Dry|Quality:Salty,"quantity_other, quality"
+203297,Functional,Functional
+53124,Status:Not functional|Breakdown Year:1995|Reason Not Functioning:Dry|Quantity:Dry|Quality:Salty,"quantity_other, quality"
+191321,DRY,quantity_other
+30284,Status:Not functional|Breakdown Year:1988|Reason Not Functioning:Destroyed|Quantity:Dry|Quality:Soft,"quantity_other, technical_other"
+61393,,
+194338,PROBLEM BUT NOT DELIVERING WATER,vague
+149332,,
+292122,Functional,Functional
+398350,,
+78269,Yes- functional.,Functional
+196420,OK,Functional
+127703,Water Point Plugged and abandoned|,"abandon, technical_other"
+322021,Functional,Functional
+282606,Functional,Functional
+128775,,
+272901,Non-Functional - THE TANK DOES NOT STORE WATER,technical_other
+348930,,
+180377,PROBLEM BUT NOT DELIVERING WATER,vague
+99951,Yes- but partly damaged. Pump damaged,technical_other
+26735,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+247021,Non-Functional,vague
+99085,No- broken down. water Pipe too short,const_des
+215890,Non-Functional,vague
+339653,System is Broken|Broken Parts,technical_other
+270655,Functional - BLOCKED BY STORM WATER,flooded
+214213,Functional,Functional
+8730,OK,Functional
+199339,OK,Functional
+61536,,
+16369,Status:Not functional|Breakdown Year:2007|Quantity:Seasonal|Quality:Soft,quantity_other
+256635,Functional,Functional
+162401,Operational,Functional
+203068,Functional (not in use),abandon
+339785,,
+337402,Functional ( in use),Functional
+131369,,
+193670,OK,Functional
+60546,,
+199093,PROBLEM BUT NOT DELIVERING WATER,vague
+198520,OK,Functional
+162036,Non-Operational,Vague
+238538,Functional,Functional
+286264,Functional,Functional
+114168,,
+322438,Functional,Functional
+53535,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+142854,Pipe Scheme Tap Problem|Pipe Scheme Pipeline Problem|,technical_other
+292794,Non-Functional,vague
+298394,Functional,Functional
+177877,Working but with problems. Well polluted|Under construction,"underconst, quality"
+311627,Functional,Functional
+163597,Working and protected. Not damaged,Functional
+207530,Functional,Functional
+277175,Functional,Functional
+183726,OK,Functional
+146393,Water Point Concrete Problem|,technical_other
+292959,Non-Functional - WASTE IS DISPOSED OFF ON THE SOURCE,quality
+313940,Functional,Functional
+350645,,
+146729,Water Point Concrete Problem|,technical_other
+146044,,
+134811,Water Point Pump Problem|,technical_other
+100895,Yes- but partly damaged. Well damaged | Apron Damaged | Pump damaged,technical_other
+26218,Status:Not functional|Breakdown Year:2004|Reason Not Functioning:Water level too low|Quantity:Dry|Quality:Soft,quantity_other
+66690,Yes- functional.,Functional
+309558,Functional,Functional
+134364,,
+131370,,
+113117,,
+54912,Status:Not functional|Quantity:Insufficient|Quality:Soft,quantity_other
+117472,Water Point Concrete Problem|,technical_other
+145412,Water Point Pump Problem|,technical_other
+58148,,
+175756,Broken Down System. Pump broken,technical_other
+26124,Status:Functional|Quantity:Enough|Quality:Salty,Functional
+229494,Functional,Functional
+228399,Functional,Functional
+322905,Non-Functional,vague
+52136,Status:Not functional|Breakdown Year:2006|Quantity:Enough|Quality:Soft,vague
+56239,Status:Not functional|Quantity:Not recorded|Quality:Not recorded,vague
+323607,Functional,Functional
+178960,OK,Functional
+219198,Functional - THE PROBLEM FACE BY THE COMMUNITY IS THAT AFFORDING SPARES,funds_maintain
+129702,,
+162148,Operational,Functional
+212954,Functional,Functional
+294377,Functional,Functional
+338401,Functional ( in use),Functional
+263225,Functional,Functional
+51576,Status:Not functional|Breakdown Year:2006|Reason Not Functioning:Muds blocks water|Quantity:Enough|Quality:Soft,technical_other
+198460,OK,Functional
+10568,OK,Functional
+197670,OK,Functional
+325058,Non-Functional,vague
+258569,Functional,Functional
+66221,No- broken down. Well damaged | Well polluted,"quality, technical_other"
+244248,Functional,Functional
+295316,Functional,Functional
+323674,Non-Functional - NO WATER COMES TO THE TANK FOR SUPPLY.,vague
+306242,Functional,Functional
+337665,Functional ( in use),Functional
+68261,Yes- functional.,Functional
+395209,,
+219937,Functional,Functional
+6521,OK,Functional
+208143,Non-Functional,vague
+293332,Functional,Functional
+322847,Functional,Functional
+50991,Status:Not functional|Breakdown Year:2002|Reason Not Functioning:Abandoned|Quantity:Insufficient|Quality:Soft,"abandon, quantity_other"
+277763,Functional,Functional
+14233,OK,Functional
+6027,OK,Functional
+296856,Functional,Functional
+271304,Functional,Functional
+146078,,
+259715,Functional,Functional
+131360,,
+166155,Working and protected. Not damaged,Functional
+66360,No- broken down. Well damaged | Well polluted | Pump stolen,"quality, technical_other, vandalism"
+59941,,
+271364,Functional,Functional
+158850,,
+176883,Working and protected. Not damaged,Functional
+68800,Yes- but partly damaged. Well damaged | Well polluted | null,"quality, technical_other"
+201655,,
+78530,Yes- functional.,Functional
+7086,OK,Functional
+285457,Non-Functional,vague
+30452,Status:Not functional|Quantity:Insufficient|Quality:Soft,quantity_other
+92846,Yes- functional.,Functional
+125341,,
+80139,Yes- functional.,Functional
+200357,OK,Functional
+13070,OK,Functional
+389704,,
+238149,Functional,Functional
+194660,OK,Functional
+159485,,
+288232,Functional,Functional
+166703,Working and protected. Not damaged,Functional
+307395,Non-Functional - pipes were cut,vandalism
+67973,Yes- functional.,Functional
+277075,Functional,Functional
+349132,,
+182150,OK,Functional
+78153,Yes- functional.,Functional
+4383,OK,Functional
+283729,Functional,Functional
+254202,Functional,Functional
+205615,Functional,Functional
+325875,not functional,vague
+202714,Functional,Functional
+130414,Water Point Pump Problem|,technical_other
+94906,No- broken down. Reservoir damaged and pipe head broken,technical_other
+178141,Working but with problems. Go dry,quantity_other
+28507,Status:Not functional|Reason Not Functioning:Technical problem|Quantity:Enough|Quality:Soft,technical_other
+182817,OK,Functional
+13215,OK,Functional
+55819,Status:Not functional|Quantity:Not recorded|Quality:Not recorded,vague
+195368,OK,Functional
+113716,,
+352233,,
+160848,Operational,Functional
+275612,Functional,Functional
+240920,Functional,Functional
+222979,Decommissioned,decommissioned
+143524,,
+207199,Functional,Functional
+271565,Functional,Functional
+6924,OK,Functional
+245649,Functional,Functional
+319718,Non-Functional,vague
+49342,Status:Not functional|Breakdown Year:2006|Reason Not Functioning:Main pump stolen|Quantity:Enough|Quality:Soft,vandalism
+396141,,
+25181,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+334474,Functional and in use,Functional
+131977,,
+278449,Functional,Functional
+60921,,
+334448,Functional and in use,Functional
+211804,Functional,Functional
+290963,Functional,Functional
+63288,Yes- functional.,Functional
+389866,,
+63168,No- broken down. Tap head(s) broken or missing | Pipe(s) blocked or disconnected,technical_other
+353182,,
+201684,,
+197668,DRY,quantity_other
+291298,Non-Functional,vague
+77346,No- broken down. Apron damaged,technical_other
+296034,Functional,Functional
+315306,Non-Functional,vague
+225798,Non-Functional,vague
+67288,Yes- functional.,Functional
+336794,Functional ( in use),Functional
+312126,Functional,Functional
+325309,Non-Functional,vague
+214431,Functional,Functional
+273467,Functional,Functional
+102022,No- broken down. Pipe(s) blocked or disconnected | No water in network or tank,technical_other
+129985,,
+6108,OK,Functional
+239997,Functional,Functional
+194541,OK,Functional
+310677,Functional,Functional
+242770,Functional,Functional
+280238,Functional,Functional
+12818,DRY,quantity_other
+113664,,
+351176,,
+148069,,
+210320,Functional,Functional
+387986,,
+332787,not functional,vague
+320407,Functional,Functional
+15090,Status:Functional|Breakdown Year:2008|Quantity:Dry|Quality:Soft,Functional
+149102,Water Point Collapsed/ Destroyed|,technical_other
+127353,,
+98735,No- broken down. Well damaged | Well polluted,"quality, technical_other"
+57934,,
+25286,Status:Not functional|Breakdown Year:1998|Quantity:Dry|Quality:Soft,quantity_other
+60354,,
+131404,Water point dry/ drawdown|,"quantity_other, technical_other"
+282556,Functional,Functional
+324525,Functional,Functional
+256553,Functional,Functional
+146651,Water Point Concrete Problem|Water Point Pump Problem|,technical_other
+254640,Functional,Functional
+312320,Functional,Functional
+290751,Functional,Functional
+158209,,
+262063,Functional,Functional
+255719,Non-Functional,vague
+143700,,
+200901,,
+26176,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+2547,OK,Functional
+219788,Functional,Functional
+9561,DRY,quantity_other
+134507,Water Point Pump Problem|,technical_other
+8335,PROBLEM BUT NOT DELIVERING WATER,vague
+257547,Functional,Functional
+230043,Functional,Functional
+29812,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+11725,OK,Functional
+100699,Yes- functional.,Functional
+351207,,
+26493,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+60199,,
+309640,Functional,Functional
+67399,Yes- functional.,Functional
+162887,Working but with problems. Pump broken,technical_other
+141917,,
+66326,Yes- functional.,Functional
+245647,Functional,Functional
+201812,Totally functional -,Functional
+83358,Yes- functional.,Functional
+29649,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+101597,Yes- functional.,Functional
+28120,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+52385,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+270562,Decommissioned - IT HAD TURBID WATER AND USERS ABANDONED IT,"abandon, quality"
+333470,broken,vague
+273668,Non-Functional,vague
+28724,Status:Not functional|Quantity:Not recorded|Quality:Not recorded,vague
+93910,No- broken down. Pump damaged | PIPE SHORT,const_des
+142636,,
+57027,Status:Not functional|Quantity:Enough|Quality:Milky,quality
+333949,Functional ( in use),Functional
+202836,Functional,Functional
+128616,Water point dry/ drawdown|Water Point Pump Problem|,"quantity_other, technical_other"
+398135,,
+276159,Functional,Functional
+53176,Status:Functional|Breakdown Year:2007|Reason Not Functioning:Need repair|Quantity:Enough|Quality:Soft,Functional
+178702,OK,Functional
+164949,Working and protected. Not damaged,Functional
+338395,Non- Functional|Closer alternative source,lowdem_alt
+112648,Pipe Scheme Pipeline Problem|,technical_other
+9382,OK,Functional
+272035,Functional,Functional
+213258,Functional,Functional
+335893,Functional ( in use),Functional
+141618,Water Point Pump Problem|,technical_other
+309244,Functional,Functional
+204901,Functional,Functional
+227129,Functional,Functional
+275682,Decommissioned - TECHNICAL BREAKDOWN OF THE PUMP AND HAVING ALTERNATIVE.,"decommissioned, technical_other, lowdem_alt"
+286059,Functional,Functional
+164160,Working and protected. Not damaged,Functional
+258489,Functional - ALL PIPES ARE OLD AND HAVE NO GROOVES,technical_other
+66994,Yes- functional.,Functional
+76533,No- broken down. Pump damaged,technical_other
+5576,OK,Functional
+288008,Functional,Functional
+178914,OK,Functional
+337117,Non- Functional|Cheaper alternative sources|lack of funds,"lowdem_alt, funds_maintain"
+290685,Functional,Functional
+215634,Non-Functional,vague
+97133,Yes- functional.,Functional
+294732,Functional - COMPLETE PUMP SET NOT INSTALLED,underconst
+278501,Functional - THE STONES SUNK ANS BLOCKED THE EYES,vague
+160033,Operational,Functional
+197053,DRY,quantity_other
+286012,Functional,Functional
+68895,No- broken down. Pump damaged,technical_other
+94693,Yes- functional.,Functional
+277961,Functional,Functional
+112575,,
+31006,Status:Functional|Reason Not Functioning:Other|Quantity:Enough|Quality:Soft,Functional
+161908,Non-Operational,Vague
+148963,,
+278375,Functional,Functional
+323523,Non-Functional - MAIN SOURCE WAS SWEPT BY WATER FLOODS,flooded
+320280,Functional,Functional
+223458,Non-Functional,vague
+311603,Functional,Functional
+148802,Water Point Pump Problem|,technical_other
+221595,Functional,Functional
+350034,,
+112040,,
+84450,Yes- functional.,Functional
+116787,,
+277343,Functional,Functional
+221155,Functional,Functional
+279464,Functional,Functional
+192518,OK,Functional
+323728,Functional,Functional
+203707,Functional,Functional
+9547,LOST,vague
+255166,Non-Functional,vague
+11603,OK,Functional
+320360,Functional,Functional
+100689,Yes- functional.,Functional
+349414,,
+311974,Functional,Functional
+65279,Yes- functional.,Functional
+272594,Non-Functional - NEED CLEANING OUT,technical_other
+178492,Working and protected. Not damaged,Functional
+143049,,
+115709,,
+317329,Functional,Functional
+97565,Yes- but partly damaged. Pump damaged,technical_other
+133922,,
+218970,Non-Functional - WATER POINT IS ALMOST ISOLATED FROM PEOPLE AND THERE IS A NEARBY BOREHOLE,"siting, distance"
+131228,,
+222833,Functional,Functional
+50074,Status:Functional|Quantity:Enough|Quality:Salty,Functional
+258884,Functional (not in use),abandon
+255661,Functional,Functional
+296899,Non-Functional,vague
+144528,,
+174682,Working and protected. Not damaged,Functional
+314258,Non-Functional,vague
+240161,Non-Functional,vague
+203333,Functional,Functional
+110416,Yes- but partly damaged. Tap head(s) broken or missing | Pipe(s) blocked or disconnected,technical_other
+349167,,
+298489,Functional,Functional
+182362,OK,Functional
+112817,Water Point Concrete Problem|Pipe Scheme Tap Problem|,technical_other
+317282,Functional,Functional
+159672,,
+260927,Functional,Functional
+128175,Water Point Pump Problem|,technical_other
+389932,,
+84458,Yes- functional.,Functional
+100293,Yes- but partly damaged. Well damaged,technical_other
+100038,No- broken down. Pump stolen,vandalism
+56265,Status:Not functional|Quantity:Not recorded|Quality:Not recorded,vague
+8585,OK,Functional
+166272,Broken Down System. Not specified,vague
+289168,Functional,Functional
+81171,Yes- functional.,Functional
+274691,Functional,Functional
+200778,,
+272023,Functional,Functional
+270615,Functional,Functional
+77876,No- broken down. Pipe(s) blocked or disconnected,technical_other
+78573,Yes- functional.,Functional
+159776,,
+337506,Functional ( in use),Functional
+336332,Functional ( in use),Functional
+285355,Functional,Functional
+160910,Non-Operational,Vague
+224910,Functional,Functional
+141563,Water point working with Bucket|,Functional
+352063,,
+326110,functional,Functional
+68866,Yes- functional.,Functional
+392981,,
+56171,Status:Functional|Quantity:Not recorded|Quality:Not recorded,Functional
+276812,Functional,Functional
+110140,Yes- but partly damaged. Pipe(s) blocked or disconnected,technical_other
+203978,Functional,Functional
+12957,OK,Functional
+92815,Yes- functional.,Functional
+270836,Functional,Functional
+254181,Functional,Functional
+177392,Working but with problems. Not pumping well,technical_other
+82435,Yes- functional.,Functional
+10470,OK,Functional
+102317,Yes- functional.,Functional
+317338,Functional,Functional
+102051,Yes- functional.,Functional
+309533,Functional,Functional
+151366,,
+352510,,
+112717,Water Point Pump Problem|,technical_other
+77205,Yes- functional.,Functional
+64856,Yes- functional.,Functional
+179177,OK,Functional
+193417,OK,Functional
+297512,Functional,Functional
+394255,Rationing,
+254791,Functional,Functional
+142648,,
+67275,Yes- functional.,Functional
+113116,,
+220289,Functional,Functional
+211489,Functional,Functional
+205949,Functional - pipes not properly arranged generating friction during pumping,technical_other
+210026,Functional,Functional
+12360,DRY,quantity_other
+395548,,
+178659,OK,Functional
+199867,OK,Functional
+132076,,
+9658,OK,Functional
+208686,Functional,Functional
+226873,Functional,Functional
+166118,Working and protected. Not damaged,Functional
+9857,OK,Functional
+13256,OK,Functional
+226032,Functional,Functional
+110992,,
+281718,Functional,Functional
+100907,No- broken down. Pump damaged,technical_other
+116515,,
+333913,Functional ( in use),Functional
+289236,Non-Functional,vague
+277653,Functional,Functional
+159175,Water Point Concrete Problem|,technical_other
+79395,Yes- functional.,Functional
+102274,Yes- functional.,Functional
+309107,Functional,Functional
+229679,Functional,Functional
+98633,Yes- but partly damaged. Well polluted | Cover Dermage,"quality, technical_other"
+144454,,
+238248,Functional,Functional
+207597,Functional - FAULTY PUMP SEAL PIPE LEAKAGE,technical_other
+287427,Functional,Functional
+131761,Water Point Pump Problem|,technical_other
+113358,,
+200113,OK,Functional
+126926,Pipe Scheme Tap Problem|,technical_other
+273488,Non-Functional,vague
+31709,Status:Not functional|Breakdown Year:2007|Quantity:Enough|Quality:Soft,vague
+315097,Functional,Functional
+202205,Totally functional -,Functional
+11071,OK,Functional
+162796,Working and protected. Not damaged,Functional
+29355,Status:Functional|Reason Not Functioning:Low water pressure|Quantity:Insufficient|Quality:Soft,Functional
+206672,Functional,Functional
+133167,Water Point Collapsed/ Destroyed|,technical_other
+30763,Status:Not functional|Breakdown Year:1986|Reason Not Functioning:Other|Quantity:Not recorded|Quality:Not recorded,vague
+338533,Normally operational,Functional
+317712,Functional,Functional
+184201,OK,Functional
+229460,Functional,Functional
+165388,Working and protected. Not damaged,Functional
+259209,Functional,Functional
+228830,Functional,Functional
+165688,Working and protected. Not damaged,Functional
+351047,,
+325470,Non-functional,vague
+217557,Functional - SOLAR REMOVED,"technical_other, vandalism"
+17477,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+99427,Yes- functional.,Functional
+287570,Functional,Functional
+242838,Functional (not in use)  - Disconnection from the main source,"vague, abandon"
+4062,DRY,quantity_other
+149543,,
+53011,Status:Not functional|Breakdown Year:2006|Reason Not Functioning:Cylinder|Quantity:Enough|Quality:Soft,vague
+182513,OK,Functional
+99550,Yes- functional.,Functional
+218405,Functional,Functional
+223370,Non-Functional,vague
+52226,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+204621,Functional,Functional
+286960,Functional - Sensitization of WSC,vague
+131866,,
+200094,PROBLEM BUT NOT DELIVERING WATER,vague
+166202,Broken Down System. Well polluted,quality
+102120,No- broken down. Pipe(s) blocked or disconnected | No water in network or tank,technical_other
+349152,,
+195283,DRY,quantity_other
+133655,,
+177490,Working and protected. Not damaged,Functional
+272204,Functional (not in use),abandon
+388029,,
+151368,,
+215450,Non-Functional,vague
+197035,OK,Functional
+259214,Functional - IT WAS BEYOND REPAIR THAT THEY COULD NOT AFFORD.,"technical_other, funds_maintain"
+396698,,
+338147,Functional ( in use),Functional
+144033,,
+324854,Functional,Functional
+132490,Water Point Pump Problem|,technical_other
+29358,Status:Functional|Reason Not Functioning:Water rationing|Quantity:Insufficient|Quality:Soft,"quantity_other, rationing"
+16131,Status:Not functional|Breakdown Year:2007|Quantity:Enough|Quality:Soft,vague
+31411,Status:Functional|Quantity:Enough|Quality:Salty,Functional
+292806,Functional (not in use),abandon
+258395,Functional,Functional
+69346,Yes- functional.,Functional
+157996,,
+270135,Functional,Functional
+48854,Status:Functional|Quantity:Enough|Quality:Salty,Functional
+78962,Yes- functional.,Functional
+210508,Non-Functional,vague
+130666,Water point dry/ drawdown|Water Point Pump Problem|,"quantity_other, technical_other"
+61628,,
+256250,Functional,Functional
+222126,Non-Functional - PUMP BUCKETS WORN OUT,technical_other
+296079,Non-Functional,vague
+31536,Status:Functional|Quantity:Seasonal|Quality:Soft,Functional
+126821,,
+78972,Yes- functional.,Functional
+130476,Water point dry/ drawdown|Water Point Pump Problem|,"quantity_other, technical_other"
+228319,Functional,Functional
+308445,Functional,Functional
+311050,Non-Functional - SOURCE TOO OLD NEEDS REPAIR OR REPLACEMENT,technical_other
+286007,Functional,Functional
+31871,Status:Not functional|Breakdown Year:2005|Quantity:Enough|Quality:Soft,vague
+309967,Functional,Functional
+257619,Functional,Functional
+291143,Non-Functional,vague
+288100,Functional,Functional
+396748,,
+320894,Functional,Functional
+126854,Water Point Collapsed/ Destroyed|,technical_other
+61164,,
+79112,Yes- functional.,Functional
+239320,Functional,Functional
+201304,,
+115245,,
+260855,Functional,Functional
+195715,OK,Functional
+132372,Water Point Pump Problem|,technical_other
+164523,Working and protected. Not damaged,Functional
+201255,,
+147015,Water Point Concrete Problem|,technical_other
+62190,,
+197690,OK,Functional
+319771,Functional,Functional
+242421,Functional,Functional
+199585,OK,Functional
+246464,Functional,Functional
+9638,OK,Functional
+351646,,
+297023,Non-Functional,vague
+125655,Water Point Pump Problem|,technical_other
+196793,OK,Functional
+280317,Functional,Functional
+193987,OK,Functional
+67231,Yes- functional.,Functional
+280160,Non-Functional,vague
+176023,Working but with problems. Apron damaged,technical_other
+353190,,
+203464,Functional,Functional
+286631,Functional,Functional
+240761,Functional,Functional
+113051,Water point working with Bucket|,Functional
+94327,Yes- but partly damaged. Tap head(s) broken or missing | Pipe(s) blocked or disconnected | Water is leaking,technical_other
+254267,Functional,Functional
+6038,PROBLEM BUT DELIVERING WATER,vague
+149740,Water Point Plugged and abandoned|Water Point Pump Problem|,"abandon, technical_other"
+224584,Functional,Functional
+230033,Functional,Functional
+213702,Functional,Functional
+296176,Functional,Functional
+178816,OK,Functional
+229102,Functional,Functional
+101769,Yes- functional.,Functional
+276759,Functional,Functional
+217957,Functional,Functional
+256612,Functional,Functional
+274890,Functional,Functional
+18242,Status:Functional|Quantity:Insufficient|Quality:Salty,Functional
+191717,OK,Functional
+289067,Functional,Functional
+98440,Yes- but partly damaged. Pump damaged,technical_other
+387277,,
+197905,OK,Functional
+60704,,
+16350,Status:Not functional|Breakdown Year:2006|Quantity:Seasonal|Quality:Soft,quantity_other
+258640,Non-Functional - COMMUNITY FAILED TO COLLECT MONEY FOR REPAIRS,funds_maintain
+175694,Working and protected. Not damaged,Functional
+193934,OK,Functional
+114226,,
+219125,Functional,Functional
+60600,,
+77777,Yes- functional.,Functional
+320370,Functional,Functional
+67588,Yes- functional.,Functional
+315310,Non-Functional,vague
+213249,Functional,Functional
+315068,Functional,Functional
+56553,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+322845,Functional,Functional
+62072,,
+333420,broken,vague
+100496,Yes- functional.,Functional
+12620,OK,Functional
+58221,,
+28938,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+8455,OK,Functional
+161189,Operational,Functional
+117626,,
+307880,Non-Functional - reduced gravitational force pressure pipes are broken,technical_other
+245299,Functional,Functional
+246244,Decommissioned - dry completely even in wet season,"decommissioned, water_resource"
+349579,,
+83298,Yes- functional.,Functional
+114440,Pipe Scheme Generator Problem|,technical_other
+191322,DRY,quantity_other
+272355,Non-Functional,vague
+320397,Functional,Functional
+13926,OK,Functional
+128128,Water Point Pump Problem|,technical_other
+5344,PROBLEM BUT DELIVERING WATER,vague
+15672,Status:Functional|Quantity:Insufficient|Quality:Soft,Functional
+116066,,
+253575,Non-Functional - Abandoned the breakage,"abandon, technical_other"
+244062,Non-Functional,vague
+313432,Functional,Functional
+387957,,
+29799,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+130001,,
+54776,Status:Not functional|Quantity:Insufficient|Quality:Soft,quantity_other
+225760,Functional,Functional
+183133,OK,Functional
+314980,Functional,Functional
+308648,Non-Functional,vague
+50292,Status:Functional|Quantity:Enough|Quality:Salty,Functional
+319556,Functional,Functional
+192220,LOST,vague
+285217,Non-Functional,vague
+263140,Functional,Functional
+206175,Functional,Functional
+210088,Functional,Functional
+607,OK,Functional
+263066,Functional,Functional
+351723,,
+272647,Non-Functional,vague
+313078,Functional,Functional
+53542,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+148865,,
+338291,Functional ( in use),Functional
+68162,Yes- functional.,Functional
+243736,Functional,Functional
+84898,Yes- functional.,Functional
+258500,Functional,Functional
+197791,OK,Functional
+149874,Water Point Pump Problem|,technical_other
+8614,OK,Functional
+116167,Water Point Pump Problem|,technical_other
+338404,Non- Functional|not commisionef,underconst
+208043,Functional,Functional
+147645,,
+270027,Functional,Functional
+273224,Functional,Functional
+49710,Status:Not functional|Breakdown Year:2003|Quantity:Insufficient|Quality:Soft,quantity_other
+293657,Functional,Functional
+311010,Functional,Functional
+270638,Decommissioned,decommissioned
+52064,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+272196,Functional,Functional
+312898,Functional,Functional
+199819,PROBLEM BUT NOT DELIVERING WATER,vague
+281479,Functional,Functional
+391466,,
+388312,,
+313700,Functional,Functional
+101366,Yes- but partly damaged. Apron Damaged,technical_other
+65376,Yes- functional.,Functional
+177496,Working and protected. Not damaged,Functional
+76733,No- broken down. Tap head(s) broken or missing,technical_other
+10062,OK,Functional
+29431,Status:Functional|Reason Not Functioning:Low water pressure|Quantity:Insufficient|Quality:Soft,Functional
+335344,Functional ( in use),Functional
+258044,Non-Functional - SOURCE NEEDS REPLACEMENT OF SPOUT,technical_other
+193093,OK,Functional
+6768,OK,Functional
+80819,Yes- functional.,Functional
+191582,OK,Functional
+61570,,
+144202,,
+295356,Functional,Functional
+125653,Water Point Concrete Problem|Water Point Pump Problem|,technical_other
+207809,Functional,Functional
+63665,Yes- functional.,Functional
+289337,Non-Functional,vague
+118645,,
+310943,Functional,Functional
+60291,,
+387189,,
+61089,,
+49032,Status:Functional|Reason Not Functioning:Cylinder and ball bearing  has problems|Quantity:Enough|Quality:Soft,Functional
+162210,Operational,Functional
+183681,OK,Functional
+99753,Yes- functional.,Functional
+201187,,
+29983,Status:Functional|Breakdown Year:2007|Quantity:Enough|Quality:Soft,Functional
+100815,Yes- functional.,Functional
+131114,Pipe Scheme Generator Problem|,technical_other
+28318,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+262540,Functional,Functional
+241044,Functional - INITIAL CONSTRUCTION IMPROPER.,const_des
+195686,OK,Functional
+19536,Status:Functional|Quantity:Enough|Quality:Soft,Functional
+29684,Status:Not functional|Quantity:Insufficient|Quality:Soft,quantity_other
+195455,DRY,quantity_other
+85571,Yes- functional.,Functional
+80850,No- still under construction.,underconst
+30501,Status:Not functional|Quantity:Enough|Quality:Soft,vague
+317344,Non-Functional,vague
+396184,,
+219866,Functional,Functional
+294280,Non-Functional - SOURCE DRIED UP DURING THE DRY SEASON,quantity_other
+306439,Functional,Functional
+81946,Yes- but partly damaged. Pump stolen,vandalism
+6583,OK,Functional
+102213,Yes- functional.,Functional
+180148,OK,Functional
+334836,Functional and in use,Functional
