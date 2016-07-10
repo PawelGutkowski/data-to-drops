@@ -2,12 +2,11 @@ from __future__ import division
 import csv
 import sys
 
-import training
-from engine import brain
+import pickle
 
-brain = brain()
-print "Learning from 'training.csv'..."
-training.train(brain)
+print "Loading brain..."
+with open('brain.dump', 'rb') as dump:
+    brain = pickle.load(dump)
 
 print "Classifing input from "+sys.argv[1]+" and writing to "+sys.argv[2]+"..."
 
