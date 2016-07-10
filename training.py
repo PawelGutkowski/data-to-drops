@@ -20,3 +20,6 @@ def train(brain):
                 multiple[key] = value
 
         brain.evaluate()
+
+        # for key, value in multiple.items():
+        #     brain.link(key, value)

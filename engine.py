@@ -31,14 +31,13 @@ def filter_tokens(tokens):
 
 def match_tokens(base, input):
     weight = sum(base.values())
-    result = 0
+    result = {}
     for token in input:
         if token in base.keys():
             token_weight = measure_weight(token)
-            result += (token_weight^2)*base[token]*(token_weight/len(input))
+            result[token] = (token_weight^2)*base[token]*(token_weight/len(input))/weight
 
-    div = (result/weight)
-    return div
+    return result
 
 def measure_weight(token):
     return (token.count("\s+") + 1) * (token.count("not") + 1)
@@ -56,26 +55,44 @@ class brain:
             self.links[key].update(items)
 
     def classify(self, input):
-        # for key, value in self.links.items():
-        #     if input in value.items:
-        #         return key
         if input == "": return ""
 
         tokens = tokenize(input)
+        results = []
         matches = {}
 
-        for key, value in self.links.items():
-            matches[key] = match_tokens(value.tokens, tokens)
+        # find all matches
+        for token in tokens:
+            for key, value in self.links.items():
+                matches[key] = match_tokens(value.tokens, tokens)
 
-        keys = sorted(matches, key=matches.get, reverse=True)
-        result = keys[0]
+        # find keys based on matches
+        for i in range(len(self.links)):
+            match = self.best_match(matches)
+            if match is None:
+                break
+            elif i == 0 or match[1]*1.5 > results[i-1][1]:
+                results.append(match)
+                self.strip_matches(matches, match[0])
+            else:
+                break
 
-        for i in range(1, len(keys)):
-            if matches[keys[0]] < matches[keys[i]]*1.5:
-                result += ", "+keys[i]
-            else: break
+        # create status string
+        status = results[0][0]
+        for result in results[1:]:
+            status +=", "+result[0]
 
-        return result
+        return status
+
+    def best_match(self, matches):
+        results = {}
+        for key, map in matches.items():
+            results[key] = sum(map.values())
+
+        if not results: return None
+        else:
+            result = sorted(results, key=results.get, reverse=True)[0]
+            return (result, results[result])
 
     def evaluate(self):
         for list in self.links.values():
@@ -83,7 +100,13 @@ class brain:
                 if(measure_weight(token) < 2 and occurences < 2 ):
                     del list.tokens[token]
 
-
+    def strip_matches(self, matches, key):
+        link = self.links[key]
+        del matches[key]
+        for tokens in matches.values():
+            for token in link.tokens:
+                if token in tokens:
+                    tokens.pop(token)
 
 class item_list:
     def __init__(self):

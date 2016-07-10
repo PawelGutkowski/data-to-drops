@@ -20,7 +20,7 @@ with open(sys.argv[1], 'rb') as csvfile:
             status = brain.classify(row[1])
             if(status.lower() == row[2].lower()):
                 matched+=1
-            elif(len(row[2].split(", "))==1):
+            else:
                 print row[0] + " : " + status + " should be " + row[2] + ": "+row[1]+"\n"
             rows+=1
     print "result: "+str(matched)+"/"+str(rows)+" = "+str(matched/rows)
