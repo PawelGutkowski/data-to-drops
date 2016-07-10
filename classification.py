@@ -6,23 +6,21 @@ import training
 from engine import brain
 
 brain = brain()
+print "Learning from 'training.csv'..."
 training.train(brain)
 
-print "Classifing input from "+sys.argv[1]+" ..."
+print "Classifing input from "+sys.argv[1]+" and writing to "+sys.argv[2]+"..."
 
-with open(sys.argv[1], 'rb') as csvfile:
+with open(sys.argv[1], 'rb') as input, open(sys.argv[2], 'w+') as output:
 
-    reader = csv.reader(csvfile)
-    rows = 0
-    matched = 0
+    reader = csv.reader(input)
+    writer = csv.writer(output)
+
+    writer.writerow(("Row ID", "#status", "Status Category"))
+
     for row in reader:
-        if reader.line_num > 1 and row[2] != "":
-            status = brain.classify(row[1])
-            if(status.lower() == row[2].lower()):
-                matched+=1
-            else:
-                print row[0] + " : " + status + " should be " + row[2] + ": "+row[1]+"\n"
-            rows+=1
-    print "result: "+str(matched)+"/"+str(rows)+" = "+str(matched/rows)
+        if reader.line_num > 1:
+            category = brain.classify(row[1])
+            writer.writerow((row[0], row[1], category))
 
-print brain.classify("Water point dry/ drawdown|Water Point Pump Problem|")
+print "Done!"

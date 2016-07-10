@@ -13,13 +13,6 @@ def train(brain):
                 messages = row[1].lower()
                 sorted[row[2]].append(messages)
 
+        # learn based only on input with single status
         for key, value in sorted.items():
-            if len(key.split(", ")) == 1:
-                brain.link(key, value)
-            else:
-                multiple[key] = value
-
-        brain.evaluate()
-
-        # for key, value in multiple.items():
-        #     brain.link(key, value)
+                brain.train(key, value)
